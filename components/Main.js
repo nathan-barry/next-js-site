@@ -45,7 +45,7 @@ export default function Main() {
         </p>
       </Link>
       <Link href="https://www.texasblockchain.org/">
-        <p className="hover:text-[#fe8019]">- VP of UT's Blockchain Club</p>
+        <p className="hover:text-[#fe8019]">{`- VP of UT's Blockchain Club`}</p>
       </Link>
       <Link href="https://www.zfellows.com/">
         <p className="hover:text-[#fe8019]">- Z Fellows Apprentice</p>
