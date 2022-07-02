@@ -30,33 +30,53 @@ export default function Main() {
 
       <p>Currently:</p>
       <Link href="https://friktion.fi/">
-        <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
+        <p>
+          <span className="hover:text-hover">
+            - Rust Developer at Friktion Labs
+          </span>
+        </p>
       </Link>
       <br></br>
 
       <p>Previously:</p>
       <Link href="https://bean.money/">
-        <p className="hover:text-hover">- Solidity Developer at Beanstalk</p>
+        <p>
+          <span className="hover:text-hover">
+            - Solidity Developer at Beanstalk
+          </span>
+        </p>
       </Link>
       <Link href="https://www.rubicon.finance/">
-        <p className="hover:text-hover">
-          - Full-Stack Developer at Rubicon Finance
+        <p>
+          <span className="hover:text-hover">
+            - Full-Stack Developer at Rubicon Finance
+          </span>
         </p>
       </Link>
       <Link href="https://www.texasblockchain.org/">
-        <p className="hover:text-hover">{`- VP of UT's Blockchain Club`}</p>
+        <p>
+          <span className="hover:text-hover">
+            {`- VP of UT's Blockchain Club`}
+          </span>
+        </p>
       </Link>
       <Link href="https://www.zfellows.com/">
-        <p className="hover:text-hover">- Z Fellows Apprentice</p>
+        <p>
+          <span className="hover:text-hover">- Z Fellows Apprentice</span>
+        </p>
       </Link>
       <br></br>
 
       <p>More:</p>
       <Link href="https://github.com/0xnathanbarry">
-        <p className="hover:text-hover">- Github</p>
+        <p>
+          <span className="hover:text-hover">- Github</span>
+        </p>
       </Link>
       <Link href="https://www.linkedin.com/in/nathan-barry-31b6ba220/">
-        <p className="hover:text-hover">- Linkedin</p>
+        <p>
+          <span className="hover:text-hover">- Linkedin</span>
+        </p>
       </Link>
       <br></br>
 
@@ -64,7 +84,9 @@ export default function Main() {
       <p>- Arch linux and i3vm ethusiast, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
       <Link href="/me.jpeg">
-        <p className="hover:text-hover">- Very handsome :)</p>
+        <p>
+          <span className="hover:text-hover">- Very handsome :)</span>
+        </p>
       </Link>
       <br></br>
 
