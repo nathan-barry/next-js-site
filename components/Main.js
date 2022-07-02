@@ -24,8 +24,10 @@ export default function Main() {
         />
       </h2>
       <br></br>
+
       <p>19 year old developer, ex UT CS</p>
       <br></br>
+
       <p>Currently:</p>
       <Link href="https://friktion.fi/">
         <p className="hover:text-[#fe8019]">
@@ -33,6 +35,7 @@ export default function Main() {
         </p>
       </Link>
       <br></br>
+
       <p>Previously:</p>
       <Link href="https://bean.money/">
         <p className="hover:text-[#fe8019]">
@@ -51,13 +54,24 @@ export default function Main() {
         <p className="hover:text-[#fe8019]">- Z Fellows Apprentice</p>
       </Link>
       <br></br>
-      <p>Description:</p>
+
+      <p>More:</p>
+      <Link href="https://github.com/0xnathanbarry">
+        <p className="hover:text-[#fe8019]">- Github</p>
+      </Link>
+      <Link href="https://www.linkedin.com/in/nathan-barry-31b6ba220/">
+        <p className="hover:text-[#fe8019]">- Linkedin</p>
+      </Link>
+      <br></br>
+
+      <p>Info:</p>
       <p>- Arch linux and i3vm maxi, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
       <Link href="/me.jpeg">
         <p className="hover:text-[#fe8019]">- Very handsome :)</p>
       </Link>
       <br></br>
+
       <p>Below are some blog posts</p>
       <h2>---</h2>
     </div>
