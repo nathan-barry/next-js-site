@@ -11,7 +11,7 @@ const quotes = [
 export default function Main() {
   return (
     <div className="mb-16">
-      <h2 className="h-12">
+      <h2 className="h-16 sm:h-8">
         <Typewriter
           options={{
             strings: quotes,
