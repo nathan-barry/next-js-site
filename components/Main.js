@@ -1,9 +1,28 @@
 import Link from "next/link";
+import Typewriter from "typewriter-effect";
+
+const quotes = [
+  "A Wise Man Once Said Nothing",
+  "Through Struggle Comes Meaning",
+  "The Work Praises The Man",
+  "Fortune Favors The Bold",
+];
 
 export default function Main() {
   return (
     <div className="mb-16">
-      <h1>Through Struggle Comes Meaning</h1>
+      <h2>
+        <Typewriter
+          options={{
+            strings: quotes,
+            autoStart: true,
+            loop: true,
+            delay: 50,
+            pauseFor: 8000,
+            deleteSpeed: 50,
+          }}
+        />
+      </h2>
       <br></br>
       <p>19 year old developer, ex UT CS</p>
       <br></br>
@@ -35,7 +54,7 @@ export default function Main() {
       <p>Description:</p>
       <p>- Arch linux and i3vm maxi, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
-      <Link href="/">
+      <Link href="/me.jpeg">
         <p className="hover:text-[#fe8019]">- Very handsome :)</p>
       </Link>
       <br></br>
