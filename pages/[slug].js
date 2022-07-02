@@ -2,10 +2,20 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
+import Head from "next/head";
 
-export default function PostPage({ data: { title, date }, slug, content }) {
+export default function PostPage({
+  data: { title, date, exerpt },
+  slug,
+  content,
+}) {
   return (
     <div className="">
+      <Head>
+        <title>nathan.rs - {title}</title>
+        <meta name="description" content={exerpt} />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <div className="">{date}</div>
       <h1 className="mb-8">{title}</h1>
       <div className="post-body">
