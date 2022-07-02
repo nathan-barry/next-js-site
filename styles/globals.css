@@ -21,7 +21,7 @@
 	h2 {
 		@apply text-2xl
 	}
-
+	
 	li {
 		@apply cursor-pointer
 	}
@@ -29,4 +29,18 @@
 	button {
 		@apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
 	}
+}
+
+.parsedMarkdown p {
+	margin-bottom: 16px
+}
+
+.parsedMarkdown h1 {
+	margin-bottom: 24px;
+	margin-top: 60px;
+}
+
+.parsedMarkdown h2 {
+	margin-bottom: 24px;
+	margin-top: 60px;
 }

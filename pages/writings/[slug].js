@@ -18,7 +18,7 @@ export default function PostPage({
       </Head>
       <div className="">{date}</div>
       <h1 className="mb-8">{title}</h1>
-      <div className="post-body">
+      <div className="parsedMarkdown">
         <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
       </div>
     </div>
@@ -46,7 +46,7 @@ export async function getStaticProps({ params: { slug } }) {
     "utf-8"
   );
 
-  const { data, content } = matter(markdownWithMeta);
+  let { data, content } = matter(markdownWithMeta);
 
   return {
     props: {

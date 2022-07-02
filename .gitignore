@@ -30,3 +30,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# blog posts
+/posts/BLOG_IDEAS.md
+/posts/template
+
