@@ -9,6 +9,16 @@ module.exports = {
       maxWidth: {
         2000: "2000px",
       },
+      textColor: {
+        // main: "#FFFFFF",
+        // hover: "#33FF00",
+        main: "#fbf1c7",
+        hover: "#fe8019",
+      },
+      backgroundColor: {
+        // dark: "#000000",
+        dark: "#282828",
+      },
     },
   },
   plugins: [],

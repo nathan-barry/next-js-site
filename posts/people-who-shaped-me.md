@@ -4,13 +4,13 @@ date: "2022-04-10"
 exerpt: "Some of the people who've influenced the evolution of my values and beliefs"
 
 ---
-## The Small Town
+## Origin Story
 
-The town I came from was not a place of opportunity. It was one of those small declining midwestern towns that no one can quite put a finger on how they ended up there. There was few one could do to rise up in life and there was a limit hard cap on what success could be. Things such as us having the most fast-food restaurants per capita, the school district embezzling millions and virtually bankrupting itself, and the history of the town as a whole. It was once one of the most important towns in the country with its influence only set to grow, but due to incompetence, the spotlight moved on. The town has been around for two hundred years and its population has been declining for the last 120 of them.
+When I was a sophomore in high school learning about the oppression of the Huguenots in southern France during the 16th century and how it led to “Brain Drain”, an actual term in a textbook we had. Our town was within an hour’s drive from Kansas City, a boom town up on the rise and gaining the spotlight on the national conscious. Even with the short amount of time I spent at high school, I very much noticed the brain drain on our town to an extent where it was hard to get good letters of recommendation. All of my favorite teachers left long before I graduated as if they were disappearing to Galt's Gulch out somewhere in the sea.
 
-When I was a sophomore in high school learning about the oppression of the Huguenots in southern France during the 16th century and how it led to “Brain Drain”, an actual term in a textbook we had. Our town was within an hour’s drive from Kansas City, a boom town up on the rise and gaining the spotlight on the national conscious. Even with the short amount of time I spent at high school, I very much noticed the brain drain on our town to an extent where it was hard to get good letters of recommendation. All of my favorite teachers left long before I graduated as if they were disappearing to Galt's Gulch.
+My hometown was not a place of opportunity. It was one of those small declining midwestern towns that no one can quite put a finger on how they ended up there. There was few one could do to rise up in life and there was a limit hard cap on what success could be.
 
-Writing that just made me realize that that's exactly how I felt growing up. My home town was the world of Atlas Shrugged.
+It was almost as if it was expected of the city. Things such as us having the most fast-food restaurants per capita, the school district embezzling millions and virtually bankrupting itself, and the history of the town as a whole, such things were just expected. It was once one of the most important towns in the country with its influence only set to grow, but due to incompetence, the spotlight moved on. The town has been around for two hundred years and its population has been declining for the last 120 of them.
 
 Most people were chained by the town. Most people conformed to the town. It was always joked that we were 50 years behind any other town, but it showed in our outlooks on life. Few of us had any desire to do something with our lives, having not a clue on what to even desire to do and a fainter clue on the extent of the possibility of the individual man.
 
@@ -30,6 +30,6 @@ I’ve always admired Lex Fridman. He always seemed like a version close to my i
 
 One might wonder why Shivon Zilis is up there. She’s not a public persona. What is true is that she’s another similar archetypal ideal. She and Lex both are the competent individual enthralled in their own passion to create and add to the world. It is a noble thing to be.
 
-From one of my favorite figures in history, another archetypal character of he who manifests into being, I'll leave a quote.
+From one of my favorite figures in history, another archetypal character of "he who manifests into being", I'll leave a quote.
 
-“Do what you can, with what you have, where you are” - Teddy Roosevelt
+#### “Do what you can, with what you have, where you are” - Teddy Roosevelt

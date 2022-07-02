@@ -30,37 +30,33 @@ export default function Main() {
 
       <p>Currently:</p>
       <Link href="https://friktion.fi/">
-        <p className="hover:text-[#fe8019]">
-          - Rust Developer at Friktion Labs
-        </p>
+        <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
       </Link>
       <br></br>
 
       <p>Previously:</p>
       <Link href="https://bean.money/">
-        <p className="hover:text-[#fe8019]">
-          - Solidity Developer at Beanstalk
-        </p>
+        <p className="hover:text-hover">- Solidity Developer at Beanstalk</p>
       </Link>
       <Link href="https://www.rubicon.finance/">
-        <p className="hover:text-[#fe8019]">
+        <p className="hover:text-hover">
           - Full-Stack Developer at Rubicon Finance
         </p>
       </Link>
       <Link href="https://www.texasblockchain.org/">
-        <p className="hover:text-[#fe8019]">{`- VP of UT's Blockchain Club`}</p>
+        <p className="hover:text-hover">{`- VP of UT's Blockchain Club`}</p>
       </Link>
       <Link href="https://www.zfellows.com/">
-        <p className="hover:text-[#fe8019]">- Z Fellows Apprentice</p>
+        <p className="hover:text-hover">- Z Fellows Apprentice</p>
       </Link>
       <br></br>
 
       <p>More:</p>
       <Link href="https://github.com/0xnathanbarry">
-        <p className="hover:text-[#fe8019]">- Github</p>
+        <p className="hover:text-hover">- Github</p>
       </Link>
       <Link href="https://www.linkedin.com/in/nathan-barry-31b6ba220/">
-        <p className="hover:text-[#fe8019]">- Linkedin</p>
+        <p className="hover:text-hover">- Linkedin</p>
       </Link>
       <br></br>
 
@@ -68,7 +64,7 @@ export default function Main() {
       <p>- Arch linux and i3vm ethusiast, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
       <Link href="/me.jpeg">
-        <p className="hover:text-[#fe8019]">- Very handsome :)</p>
+        <p className="hover:text-hover">- Very handsome :)</p>
       </Link>
       <br></br>
 

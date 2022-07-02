@@ -13,7 +13,7 @@ export default function Home({ posts }) {
         <title>nathan.rs</title>
         <meta
           name="description"
-          content="Rust dev, Arch Linux user, vim enthusiast"
+          content="Rust dev, Arch Linux user, Vim enthusiast"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

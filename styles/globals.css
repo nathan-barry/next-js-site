@@ -7,7 +7,7 @@
 		font-family: monospace
 	}
 	body {
-		@apply bg-[#000000] text-[#fbf1c7] tracking-wide
+		@apply bg-dark text-main tracking-wide
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -26,9 +26,6 @@
 		@apply cursor-pointer
 	}
 
-	button {
-		@apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
-	}
 }
 
 .parsedMarkdown p {

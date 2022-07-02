@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <Link href="/">
-        <h1 className="mb-16 hover:text-[#fe8019]">nathan.rs</h1>
+        <h1 className="mb-16 hover:text-hover">nathan.rs</h1>
       </Link>
     </header>
   );
