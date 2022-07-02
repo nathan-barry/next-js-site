@@ -11,14 +11,14 @@ const quotes = [
 export default function Main() {
   return (
     <div className="mb-16">
-      <h2>
+      <h2 className="h-12">
         <Typewriter
           options={{
             strings: quotes,
             autoStart: true,
             loop: true,
             delay: 50,
-            pauseFor: 8000,
+            pauseFor: 6000,
             deleteSpeed: 50,
           }}
         />
@@ -65,7 +65,7 @@ export default function Main() {
       <br></br>
 
       <p>Info:</p>
-      <p>- Arch linux and i3vm maxi, avid vim user</p>
+      <p>- Arch linux and i3vm ethusiast, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
       <Link href="/me.jpeg">
         <p className="hover:text-[#fe8019]">- Very handsome :)</p>
