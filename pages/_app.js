@@ -10,6 +10,7 @@ function MyApp({ Component, pageProps }) {
   useEffect(() => {
     const handleRouteChange = (url) => {
       if (isProd) {
+        console.log(process.env.NODE_ENV);
         window.gtag("config", process.env.NEXT_PUBLIC_GA_ID, {
           page_path: url,
         });
