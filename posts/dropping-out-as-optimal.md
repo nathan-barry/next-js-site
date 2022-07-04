@@ -14,6 +14,10 @@ The school system is a relatively new phenomenon in human history. For most of c
 
 I've personally always learned best through doing and have disdained public schooling. Time was taken away from me creating things to go towards learning theory that I couldn't apply to anything I did and didn't know what exactly that knowledge could apply to but in the most abstract sense. I know that everything that I learn in college is useful, but when? 
 
+## Prioritizing Knowledge
+
+My first semester at university was extremely helpful. Data Structures and Discrete Math shifted the way I thought about code. I do think that this can be considered a secondary knowledge of sort. What I learned at university is what I think can be categorized as something that enhances one's ability, but doesn't out right grants it. University helps going from 1 to 10, but it cannot get you from 0 to 1 alone.
+
 I always felt like teaching kids theories that they can't apply and then letting them learn how to apply themselves after the fact has always been putting the cart before the horse. People learn much better when they're engaged and it is significantly harder to be engaged when you don't know why you're learning what you're learning. There's no meaning in the purpose behind it other than to get a degree whose sole purpose is to signify competency.
 
 ## Taking A Break From College
