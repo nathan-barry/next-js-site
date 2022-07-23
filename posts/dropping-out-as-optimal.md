@@ -2,7 +2,6 @@
 title: "Dropping Out As Optimal"
 date: "2022-07-02"
 exerpt: "Solving life as an optimization problem"
-
 ---
 ## Life As An Optimization Problem
 

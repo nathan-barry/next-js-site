@@ -2,7 +2,6 @@
 title: "This Mountain We Climb"
 date: "2021-03-03"
 exerpt: "A poem I wrote my senior year of high school in AP Literature."
-
 ---
 **Preface:** This is a poem I wrote my senior year of high school in AP Literature.
 

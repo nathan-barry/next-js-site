@@ -2,7 +2,6 @@
 title: "People Who Shaped Me"
 date: "2022-04-10"
 exerpt: "Some of the people who've influenced the evolution of my values and beliefs"
-
 ---
 ## Origin Story
 
@@ -16,7 +15,7 @@ Most people were chained by the town. Most people conformed to the town. It was 
 
 ## Influences
 
-For the longest time, I had a little square photo of the following on my computer monitor: Jordan B Peterson, Lex Fridman, David Goggins, and Shivon Zilis. Next to them was a portrait of Teddy Roosevelt
+For the longest time, I had a little square photo of the following on my computer monitor: Jordan B Peterson, Lex Fridman,and David Goggins. Next to them was a 8x10 portrait of Teddy Roosevelt.
 
 It was my sophomore year when I started listening to Jordan B Peterson. It was the first time in my life that made me think “By god, I can and **should** be doing more with my life!” He instilled the idea that what one should do in life is figure out how much one can bear and then bear it. The idea that the way to a meaningful life is to take as much responsibility and accountability as one possibly can and genuinely try to do what we can on this Earth. The idea that not doing so is existentially nihilistic. That with this one beautiful life each of us have, not living up to what one could be, not trying at least, that is spitting in the face of the miracle of existence itself. There is nothing more disappointing than seeing something fall short of its potential. Missed opportunities and an improperly spent life.
 
@@ -26,9 +25,9 @@ David Goggins occasionally mentions that he works hard because he imagines a lif
 
 I've always enjoyed physical challenges. Years of intense cross-country routines. Months of waking up at 4:30 am and taking freezing showers in the winter. Running a marathon after not running for 5 months. Having the will to push your body until the verge of collapsing is much more tangible than doing the same mentally.
 
-I’ve always admired Lex Fridman. He always seemed like a version close to my ideal self. We both ran, did machine learning and AI, played guitar and piano, lived time-blocked routines, loved Dostoevsky, and had very similar beliefs and views on how to orient oneself and go through life. He was a role model, someone I wished to be like as I grew into who'd I'd become. 
+I’ve always admired Lex Fridman. He always seemed like a version close to my ideal self. We both ran, did machine learning and AI, played guitar and piano, lived time-blocked routines, loved Dostoevsky, and had very similar beliefs and views on how to orient oneself and go through life. He was a role model, someone I wished to be like as I grew into who'd I'd become.
 
-One might wonder why Shivon Zilis is up there. She’s not a public persona. What is true is that she’s another similar archetypal ideal. She and Lex both are the competent individual enthralled in their own passion to create and add to the world. It is a noble thing to be.
+Over the years I've grown to be my own person with my own amalgamated values and viewpoints coming from much more experience, reading, and life. While I have left these figures in the past, their impact still runs through my veins.
 
 From one of my favorite figures in history, another archetypal character of "he who manifests into being", I'll leave a quote.
 
