@@ -11,13 +11,13 @@ export default function Home({ posts }) {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>^ This person's books</h1>
+      <h1>^ This person\'s books</h1>
       <br></br>
       <p>
-        I've always enjoyed seeing what books other people have read. I've
+        I\'ve always enjoyed seeing what books other people have read. I\'ve
         always found it as a great way of instantly forming a connection with
         someone and it always sparks good conversation. Below are all the books
-        I've read since middle school, roughly in order. Those highlighted
+        I\'ve read since middle school, roughly in order. Those highlighted
         <span className="text-hover"> orange</span> were those that I found
         exceptionally great or impactful :)
       </p>
@@ -58,7 +58,7 @@ export default function Home({ posts }) {
       <p>
         91.{" "}
         <span className="font-bold">
-          A People's History Of The United States
+          A People\'s History Of The United States
         </span>{" "}
         - Howard Zinn
       </p>
@@ -115,7 +115,7 @@ export default function Home({ posts }) {
       <br></br>
       <p>
         79. <span className="font-bold">Give Me Tomorrow</span> - Patrick K.
-        O'Donnell
+        O\'Donnell
       </p>
       <br></br>
       <p>
@@ -179,14 +179,14 @@ export default function Home({ posts }) {
       <p>
         66.{" "}
         <span className="font-bold">
-          Endurance: Shackleton's Incredible Voyage
+          Endurance: Shackleton\'s Incredible Voyage
         </span>{" "}
         - Alfred Lansing
       </p>
       <br></br>
       <p>
         65.{" "}
-        <span className="font-bold">Surely You're Jokking, Mr. Feynman</span> -
+        <span className="font-bold">Surely You\'re Jokking, Mr. Feynman</span> -
         Richard Feynman
       </p>
       <br></br>
@@ -244,7 +244,7 @@ export default function Home({ posts }) {
       <br></br>
       <p>
         53. <span className="font-bold">The Things They Carried</span> - Tim
-        O'Brian
+        O\'Brian
       </p>
       <br></br>
       <p className="text-hover">
@@ -300,7 +300,7 @@ export default function Home({ posts }) {
       </p>
       <br></br>
       <p className="text-hover">
-        41. <span className="font-bold">Can't Hurt Me</span> - David Goggins
+        41. <span className="font-bold">Can\'t Hurt Me</span> - David Goggins
       </p>
       <br></br>
       <p className="text-hover">
@@ -323,8 +323,8 @@ export default function Home({ posts }) {
       </p>
       <br></br>
       <p className="text-hover">
-        36. <span className="font-bold">Man's Search For Meaning</span> - Viktor
-        E. Frankl
+        36. <span className="font-bold">Man\'s Search For Meaning</span> -
+        Viktor E. Frankl
       </p>
       <br></br>
       <p className="text-hover">
@@ -374,12 +374,12 @@ export default function Home({ posts }) {
       <br></br>
       <p>
         25.{" "}
-        <span className="font-bold">Alexander Hamilton's Guide To Life</span> -
+        <span className="font-bold">Alexander Hamilton\'s Guide To Life</span> -
         Jeff Wilser
       </p>
       <br></br>
       <p>
-        24. <span className="font-bold">Managing One's Self</span> - Peter
+        24. <span className="font-bold">Managing One\'s Self</span> - Peter
         Drucker
       </p>
       <br></br>
