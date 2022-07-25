@@ -11,7 +11,7 @@ export default function Home({ posts }) {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>^ This person\'s books</h1>
+      <h1>^ This person's books</h1>
       <br></br>
       <p>
         I\'ve always enjoyed seeing what books other people have read. I\'ve
