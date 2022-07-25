@@ -496,8 +496,7 @@ export default function Home({ posts }) {
       </p>
       <br></br>
       <br></br>
-      <br></br>
-      <p>
+      <p className="italic">
         "The average person puts only 25% of his energy and ability into his
         work. The world takes off its hat to those who put in more than 50% of
         their capacity, and stands on its head for those few and far between
