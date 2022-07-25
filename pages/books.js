@@ -364,7 +364,7 @@ export default function Home({ posts }) {
       </p>
       <br></br>
       <p className="text-hover">
-        27. <span className="font-bold">Andrew Carnige</span> - David Nasaw
+        27. <span className="font-bold">Andrew Carnegie</span> - David Nasaw
       </p>
       <br></br>
       <p className="text-hover">
@@ -493,6 +493,15 @@ export default function Home({ posts }) {
       <p className="text-hover">
         1. <span className="font-bold">The 48 Laws Of Power</span> - Robert
         Greene
+      </p>
+      <br></br>
+      <br></br>
+      <br></br>
+      <p>
+        "The average person puts only 25% of his energy and ability into his
+        work. The world takes off its hat to those who put in more than 50% of
+        their capacity, and stands on its head for those few and far between
+        souls who devote 100%" - Andrew Carnegie
       </p>
     </div>
   );
