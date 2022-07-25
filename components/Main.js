@@ -25,7 +25,7 @@ export default function Main() {
       </h2>
       <br></br>
 
-      <p>19 year old developer, ex UT CS</p>
+      <p>19 year old developer, UT CS 25</p>
       <br></br>
 
       <p>Currently:</p>
@@ -66,6 +66,14 @@ export default function Main() {
       <Link href="/me.jpeg">
         <p className="hover:text-hover">- Very handsome :)</p>
       </Link>
+      <br></br>
+
+      <Link href="/books">
+        <p className="hover:text-hover underline font-bold">
+          Check out what books I like!
+        </p>
+      </Link>
+
       <br></br>
 
       <p>Below are some blog posts</p>
