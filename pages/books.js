@@ -26,6 +26,19 @@ export default function Home({ posts }) {
       <br></br>
       <h2>Book List</h2>
       <br></br>
+      <p className="text-hover">
+        101. <span className="font-bold">Masters of DOOM</span> - David Kushner
+      </p>
+      <br></br>
+      <p className="text-hover">
+        100. <span className="font-bold">Flash Boys</span> - Michael Lewis
+      </p>
+      <br></br>
+      <p>
+        99. <span className="font-bold">The Machiavellians</span> - James
+        Burnham
+      </p>
+      <br></br>
       <p>
         98. <span className="font-bold">Human Nature</span> - Robert Greene
       </p>

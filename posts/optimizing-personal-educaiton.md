@@ -1,5 +1,5 @@
 ---
-title: "Dropping Out As Optimal"
+title: "Optimizing Personal Education"
 date: "2022-07-02"
 exerpt: "Solving life as an optimization problem"
 ---
