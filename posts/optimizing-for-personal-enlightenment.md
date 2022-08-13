@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Personal Education"
+title: "Optimizing For Personal Enlightenment"
 date: "2022-07-02"
 exerpt: "Solving life as an optimization problem"
 ---
