@@ -32,7 +32,6 @@ export default function Main() {
       <Link href="https://friktion.fi/">
         <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
       </Link>
-      <br></br>
       <Link href="https://bean.money/">
         <p className="hover:text-hover">- Solidity Developer at Beanstalk</p>
       </Link>
@@ -43,9 +42,6 @@ export default function Main() {
       </Link>
       <Link href="https://www.texasblockchain.org/">
         <p className="hover:text-hover">{`- VP of UT's Blockchain Club`}</p>
-      </Link>
-      <Link href="https://www.zfellows.com/">
-        <p className="hover:text-hover">- Z Fellows Apprentice</p>
       </Link>
       <br></br>
 
