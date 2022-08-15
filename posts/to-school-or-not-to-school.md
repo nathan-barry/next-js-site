@@ -1,7 +1,7 @@
 ---
-title: "Optimizing For Personal Enlightenment"
+title: "To School Or Not To School"
 date: "2022-07-02"
-exerpt: "Solving life as an optimization problem"
+exerpt: "Solving life as an optimization problem."
 ---
 ## Life As An Optimization Problem
 

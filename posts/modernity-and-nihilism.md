@@ -1,7 +1,7 @@
 ---
 title: "Modernity and Nihilism"
 date: "2022-07-01"
-exerpt: "My thoughts on rising mental illnesses, depression, nihilism and the causes"
+exerpt: "My thoughts on rising mental illnesses, depression, nihilism and the causes."
 ---
 ## Modern Times
 

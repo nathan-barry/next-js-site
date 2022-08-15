@@ -1,7 +1,7 @@
 ---
 title: "People Who Shaped Me"
 date: "2022-04-10"
-exerpt: "Some of the people who've influenced the evolution of my values and beliefs"
+exerpt: "Some of the people who've influenced the evolution of my values and beliefs."
 ---
 ## Origin Story
 
