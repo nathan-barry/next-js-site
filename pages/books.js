@@ -26,6 +26,10 @@ export default function Home({ posts }) {
       <br></br>
       <h2>Book List</h2>
       <br></br>
+      <p>
+        102. <span className="font-bold">The Lost Bank</span> - Kristen Grind
+      </p>
+      <br></br>
       <p className="text-hover">
         101. <span className="font-bold">Masters of DOOM</span> - David Kushner
       </p>
