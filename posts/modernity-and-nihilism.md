@@ -1,7 +1,7 @@
 ---
-title: "Modernity and Nihilism"
+title: "Modernity, Nihilism, And Discipline"
 date: "2022-07-01"
-exerpt: "My thoughts on rising mental illnesses, depression, nihilism and the causes."
+exerpt: "My thoughts on the pitfalls of unbridled modernity and how meaning can be found in constraints."
 ---
 ## Modern Times
 
@@ -11,7 +11,7 @@ Most people today know of Dunbar's number, the fact that humans have traditional
 It's a paradox that the more people in a location, the higher the alienation the general individual feels. I noticed that in my small town, it was easy to become a "renowned individual". All one had to do was apply themselves. Because of the smaller population, one could almost always become one of the best or near the top in some category. I realized that growing up in a city of a million, the likelihood of any individual becoming renowned for anything was much smaller just because of sheer competition. Also due to the size, in some places, it is harder to form a cohesive model of a community in one's social reality. That's how it feels like at UT. With 50,000 total students, I'll never truly get to know 99% of the student population, which is just sheerly mind-boggling. The paradox of choice also takes place. With a finite amount of energy to spread between who to form relations with, a seemingly endless array of options to choose from can cause one to never fully invest enough in one before moving on to another. 
 
 
-## Nietzche And The Role Of Tradition
+## Meaning Without Tradition
 
 One of the largest differences that I've noticed between people from a small town vs a large city is the difference of traditional moral values, which changes how they perceive the world and how they orient and conduct themselves in life.
 
@@ -33,12 +33,7 @@ Living up to the ideal of the self is a hard and impossible thing to do. Perfect
 
 Long ago, I used to spend an unhealthy amount of time on youtube so I prevented my computer from connecting to their server and installed chrome extensions that made it impossible for me to access youtube, to access specific channels and videos with certain keywords, and removed 95% of the UI. For games, I'd uninstall everything after every time I'd play. I removed all unhealthy foods from the home and made it set up habit chains to make doing positive things mindlessly. All this was to curb my natural inclinations.
 
-In a world where one can do anything, one must restrict themselves to truly be free. Where would I be if I was bogged down with indulging myself?
+In a world where one can do anything, one must restrict themselves to truly be free. The richness of life cannot be experienced unless one sets up systems which allows them to optimize for long term fulfiment instead of short term expediencies. 
 
-In an age devoid of intrinsic meaning comes an age of nihilism, which ultimately leads to the loss of value and the rise of hedonism.
-With no great devotion to commit to, man indulges himself. With any form of escapism (drugs, videogames, consumer media), through one's actions, one is admitting that a distraction is preferable to existing in reality. That one desires to live in an altered or different reality than the one they reside in. With hookup culture as an example, one devoids relationships and sex of any meaning by commonizing and trivializing it, usually opting in for the hedonistic pleasure of the infantine fantasies of unhinged pleasure at the expense of the potential of the fulfillment of a devoted relationship or the intimacy of sex.
-
-Our brains are very adept at adapting to whatever reality we present. If we present a meaningless world through our actions, that is the world we manifest and the world we continue to propagate. Every action in life should instead have a reason, an aim. Some purpose or aim we're constantly striving towards. That is the natural state of man.
-
-As Nietzche offered, the one antidote to nihilism is creation, and creation is only the byproduct of a mind with an aim and the will to step forward. Each step reinforces that you're a person that makes progress. That is the self-actualization of man, the convergence towards the ideal.
+As Nietzche offered, the one antidote to nihilism is creation, and creation is only the byproduct of a mind with an aim and the will to step forward. Each step reinforces that you're a person that makes progress. That is the self-actualization of man, the convergence towards the ideal. Living up to something larger than yourself: your potential.
 
