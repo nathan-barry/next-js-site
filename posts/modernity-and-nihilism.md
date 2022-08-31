@@ -1,5 +1,5 @@
 ---
-title: "Modernity, Nihilism, And Discipline"
+title: "Modernity and Nihilism"
 date: "2022-07-01"
 exerpt: "My thoughts on the pitfalls of unbridled modernity and how meaning can be found in constraints."
 ---
