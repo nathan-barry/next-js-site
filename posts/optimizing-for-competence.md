@@ -6,13 +6,13 @@ exerpt: "The beauty of competence and those that have it."
 ---
 ## Humbling Individuals
 
-Sometimes we meet individuals that expand our capacity for awe. Individuals that humble us by their knowledge and competency, how they so gracefully can elaborate on a complex topic or with ease do a difficult task that shows the depth of their competency. One of my heroes has always been John Carmack every video you hear him talk, you can just feel the extent of his knowledge.
+Every once in a while we are blessed to meet an individual that expands our capacity for awe. Individuals who humble us by their extraordinarily broad knowledge and competency, how they so gracefully elaborate on complex topics or do a difficult task with ease that displays the depth of their competency. John Carmack is a great example. In every clip of him talking, one knows that they're listening to someone that genuinely *knows* what they're talking about.
 
 It’s a very human feeling, to be humbled by someone else’s presence, and a part of the richness of life is to surround yourself with people that can inspire that feeling within you. One of the great things about going to a large urban city is that I’ve been able to surround myself with great people that inspire me to become more than my current self, the most innate human endeavor.
 
 ## Then and Now
 
-I’ve always somewhat optimized for competence. It’s just that now, my understanding of the goal has changed. After working for 8 months, I became a pretty decent software developer. I learned how to work in a professional setting and push production code. I learned how to learn how to build stuff. Something eventually clicked, and after half a year, understanding not just to build stuff, but the underlying model on how to build stuff, eventually became natural and fluid.
+I’ve always somewhat optimized for competence. After working for 8 months, I became a pretty decent software developer. I learned how to work in a professional setting and push production code. I learned how to learn how to build stuff. Something eventually clicked, and after half a year, understanding not just to build stuff, but the underlying model on how to build stuff, eventually became natural and fluid.
 
 I did learn that what I enjoyed above everything else is learning. The greater mission of enlightenment. Being a software engineer tends to be the opposite. By the nature of having a job, you are meant to push features and products in a timely fashion. I enjoyed working the most at the start when everything was something to learn. Work only began to feel like work when much of the conceptual ideas were solved and my only tasks and expectations were to write and test code.
 

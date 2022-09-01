@@ -1,16 +1,9 @@
 ---
-title: "Modernity and Nihilism"
+title: "Modernity And Nihilism"
 date: "2022-07-01"
-exerpt: "My thoughts on the pitfalls of unbridled modernity and how meaning can be found in constraints."
+exerpt: "My thoughts on the pitfalls of unbridled modernity and how meaning can be found through constraints."
+
 ---
-## Modern Times
-
-It was a culture shock, moving to Austin coming from a small town in Missouri that is only 7% of Austin's size. It made me think about the nature of our contemporary times and all the issues that arise from living around such a dense population center, a relatively new human experience.
-Most people today know of Dunbar's number, the fact that humans have traditionally lived in groups sizes of around 150 people. Any larger and then a stable, cohesive group becomes harder to maintain.
-
-It's a paradox that the more people in a location, the higher the alienation the general individual feels. I noticed that in my small town, it was easy to become a "renowned individual". All one had to do was apply themselves. Because of the smaller population, one could almost always become one of the best or near the top in some category. I realized that growing up in a city of a million, the likelihood of any individual becoming renowned for anything was much smaller just because of sheer competition. Also due to the size, in some places, it is harder to form a cohesive model of a community in one's social reality. That's how it feels like at UT. With 50,000 total students, I'll never truly get to know 99% of the student population, which is just sheerly mind-boggling. The paradox of choice also takes place. With a finite amount of energy to spread between who to form relations with, a seemingly endless array of options to choose from can cause one to never fully invest enough in one before moving on to another. 
-
-
 ## Meaning Without Tradition
 
 One of the largest differences that I've noticed between people from a small town vs a large city is the difference of traditional moral values, which changes how they perceive the world and how they orient and conduct themselves in life.
