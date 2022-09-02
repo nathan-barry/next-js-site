@@ -1,6 +1,7 @@
 import Head from "next/head";
+import Book from "../components/Book";
 
-export default function Home({ posts }) {
+export default function Home() {
   return (
     <div>
       <Head>
@@ -14,117 +15,182 @@ export default function Home({ posts }) {
       <h1>^ This person's books</h1>
       <br></br>
       <p>
-        I've always enjoyed seeing what books other people have read. I've
-        always found it as a great way of instantly forming a connection with
-        someone and it always sparks good conversation. Below are all the books
-        I've read since middle school, roughly in order. Those highlighted
-        <span className="text-hover"> orange</span> were those that I found
-        exceptionally great or impactful :)
+        I've always enjoyed seeing what books other people have read. Below are
+        all the books I've read since middle school, roughly in order. Those
+        highlighted
+        <span className="text-hover"> orange</span> were those I particularly
+        enjoyed or found impactful. An asterisk (*) indicates you can click to
+        see some of my thoughts on the book :)
       </p>
       <br></br>
       <br></br>
       <br></br>
       <h2>Book List</h2>
       <br></br>
-      <p>
-        102. <span className="font-bold">The Lost Bank</span> - Kristen Grind
-      </p>
-      <br></br>
-      <p className="text-hover">
-        101. <span className="font-bold">Masters of DOOM</span> - David Kushner
-      </p>
-      <br></br>
-      <p className="text-hover">
-        100. <span className="font-bold">Flash Boys</span> - Michael Lewis
-      </p>
-      <br></br>
-      <p>
-        99. <span className="font-bold">The Machiavellians</span> - James
-        Burnham
-      </p>
-      <br></br>
-      <p>
-        98. <span className="font-bold">Human Nature</span> - Robert Greene
-      </p>
-      <br></br>
-      <p>
-        97. <span className="font-bold">The Lessons Of History</span> - Will &
-        Ariel Durant
-      </p>
-      <br></br>
-      <p className="text-hover">
-        96. <span className="font-bold">Atlas Shrugged</span> - Ayn Rand
-      </p>
-      <br></br>
-      <p>
-        95. <span className="font-bold">The Road To Serfdom</span> - F. A. Hayek
-      </p>
-      <br></br>
-      <p>
-        94. <span className="font-bold">Zero To One</span> - Peter Thiel
-      </p>
-      <br></br>
-      <p>
-        93. <span className="font-bold">The Fountain Head</span> - Ayn Rand
-      </p>
-      <br></br>
-      <p>
-        92. <span className="font-bold">The New Right</span> - Michael Malice
-      </p>
-      <br></br>
-      <p>
-        91.{" "}
-        <span className="font-bold">
-          A People's History Of The United States
-        </span>{" "}
-        - Howard Zinn
-      </p>
-      <br></br>
-      <p className="text-hover">
-        90. <span className="font-bold">The Soverign Individual</span> - James
-        Dale Davidson & William Rees-Mogg
-      </p>
-      <br></br>
-      <p>
-        89. <span className="font-bold">The Origin Of Virtue</span> - Matt
-        Ridley
-      </p>
-      <br></br>
-      <p>
-        88. <span className="font-bold">The Rational Male</span> - Rollo Tamassi
-      </p>
-      <br></br>
-      <p>
-        87. <span className="font-bold">The Infinite Machine</span> - Camila
-        Russo
-      </p>
-      <br></br>
-      <p>
-        86. <span className="font-bold">The Bitcoin Standard</span> - Saifedean
-        Ammous
-      </p>
-      <br></br>
-      <p>
-        85. <span className="font-bold">Beyond Order</span> - Jordan B. Peterson
-      </p>
-      <br></br>
-      <p className="text-hover">
-        84. <span className="font-bold">Colonel Roosevelt</span> - Edmund Moris
-      </p>
-      <br></br>
-      <p>
-        83. <span className="font-bold">21 Lessons For The 21st Century</span> -
-        Yuval Noah Harari
-      </p>
-      <br></br>
-      <p className="text-hover">
-        82. <span className="font-bold">Homo Dues</span> - Yuval Noah Harari
-      </p>
-      <br></br>
-      <p>
-        81. <span className="font-bold">Life 3.0</span> - Max Tegmark
-      </p>
-      <br></br>
+      <Book
+        number={102}
+        title="The Lost Bank"
+        author="Kristen Grind"
+        special={false}
+        description={[
+          "This was a great telling of the story and history of Washington Mutual, the largest bank failure in U.S. History. It goes through the 132 year history of the bank and goes into great detail about option adjustable-rate and sub-prime loans.",
+          <br />,
+          <br />,
+          "It was very informative. I never knew before hand how insane lending had got. They were literally lending out money to dead and homeless people. They required no proof of income or proof of anything really. The sales people were incentivized to give a loan to whoever they could, and not suprisingly, if you lend billions to people with no jobs or income, you might lose billions in bad loans.",
+
+          <br />,
+          <br />,
+          "Reading all these stories about 2008 and market failures have made me less bullish on unregulated laissez-faire libertarian free-market capitalism. There are many cases where market participants enter a prisoner's delima (which seems to be the crux of 2008) and spill overs which creates consistent market failures that can only be handled by a counter balancing arbiter (the government).",
+        ]}
+      />
+      <Book
+        number={101}
+        title="Masters of DOOM"
+        author="David Kushner"
+        special={true}
+        description="I've always loved anything I could get my hands on about John Carmack. Really just an insane individual."
+      />
+      <Book
+        number={100}
+        title="Flash Boys"
+        author="Michael Lewis"
+        special={true}
+        description=""
+      />
+      <Book
+        number={99}
+        title="The Machiavellians"
+        author="James Burnham"
+        special={false}
+        description=""
+      />
+      <Book
+        number={98}
+        title="Human Nature"
+        author="Robert Greene"
+        special={false}
+        description=""
+      />
+      <Book
+        number={97}
+        title="The Lessons Of History"
+        author="Will &
+        Ariel Durant"
+        special={false}
+        description=""
+      />
+      <Book
+        number={96}
+        title="Atlas Shrugged"
+        author="Ayn Rand"
+        special={true}
+        description="I did love Ayn Rand's novels. I think I did prefer 'The Fountainhead' for the most part, but this story does a great job at inspiring what man can be. Ayn Rand always gets a bad rap for essentially being humanist propaganda and having simplified dichotimistic world views, but I feel like that's a part of what makes her philosophy speak to many on a deep level. Yes, her characters are black and white, but it paints an archetypal ideal of the best and worst of man and paints an image of what we could inspire to be: the creative force of man."
+      />
+      <Book
+        number={95}
+        title="The Road To Serfdom"
+        author="F. A. Hayek"
+        special={false}
+        description=""
+      />
+      <Book
+        number={94}
+        title="Zero To One"
+        author="Peter Thiel"
+        special={false}
+        description=""
+      />
+      <Book
+        number={93}
+        title="The Fountain Head"
+        author="Ayn Rand"
+        special={false}
+        description=""
+      />
+      <Book
+        number={92}
+        title="The New Right"
+        author="Michael Malice"
+        special={false}
+        description=""
+      />
+      <Book
+        number={91}
+        title="A People's History Of The United States"
+        author="Howard Zinn"
+        special={false}
+        description="I think that this is an important book for everyone to read. I disagreed with a lot of things and the book is very heavily biased, but as Zinn points out himself, it is to give the counterview of the majority of mainstream history. "
+      />
+      <Book
+        number={90}
+        title="The Soverign Individual"
+        author="James Dale Davidson & William Rees-Mogg"
+        special={true}
+        description="This book is a Magnum Opus and a roadmap to the future and how decentralization and technology will give unprecedented freedom to the individual. One of my top 3 books. It was as grand as Sapiens or Super Intelligence. It's been a while, I should reread it again."
+      />
+      <Book
+        number={89}
+        title="The Origin Of Virtue"
+        author="Matt Ridley"
+        special={false}
+        description=""
+      />
+      <Book
+        number={88}
+        title="The Rational Male"
+        author="Rollo Tamassi"
+        special={false}
+        description="Didn't know what this was when I bought it. Turns out to be the original redpill manefesto. I personally don't agree with this life philosophy, but I do think it has a lot of things any young male should be conscious of. Staying grounded and focusing on yourself, etc."
+      />
+      <Book
+        number={87}
+        title="The Infinite Machine"
+        author="Camila Russo"
+        special={false}
+        description=""
+      />
+      <Book
+        number={86}
+        title="The Bitcoin Standard"
+        author="Saifedean Ammous"
+        special={false}
+        description=""
+      />
+      <Book
+        number={85}
+        title="Beyond Order"
+        author="Jordan B. Peterson"
+        special={false}
+        description="I used to be an incredibly big Jordan B. Peterson fan when I was younger. I primarily liked his earliest stuff with his Maps of Meaning and Biblical Series, before things got political. I do enjoy the talks about morality and philosophy. I've listened to the majority of content he had produced up to 2020 and have personally found much of the new to be rehash of the old. I saw him give a lecture in Austin, his first public tour in a couple of years. It was all stuff I've already heard him say in the hundreds of hours I've listened to him. I feel like that's how this book felt. Perhaps I was also in a different point in life where such advice was less relevant."
+      />
+      <Book
+        number={84}
+        title="Colenel Roosevelt"
+        author="Edmumd Moris"
+        special={true}
+        description=""
+      />
+      <Book
+        number={83}
+        title="21 Lessons For The 21st Century"
+        author="Yuval Noah Harari"
+        special={false}
+        description=""
+      />
+      <Book
+        number={82}
+        title="Homo Dues"
+        author="Yuval Noah Harari"
+        special={true}
+        description=""
+      />
+      <Book
+        number={81}
+        title="Life 3.0"
+        author="Max Tegmark"
+        special={false}
+        description=""
+      />
       <p>
         80. <span className="font-bold">The Nuremberg Trials</span> - Pual
         Roland
@@ -507,11 +573,13 @@ export default function Home({ posts }) {
         Deresiewicz
       </p>
       <br></br>
-      <p className="text-hover">
-        1. <span className="font-bold">The 48 Laws Of Power</span> - Robert
-        Greene
-      </p>
-      <br></br>
+      <Book
+        number={1}
+        title="The 48 Laws Of Power"
+        author="Robert Greene"
+        special={true}
+        description=""
+      />
       <br></br>
       <p className="italic">
         "The average person puts only 25% of his energy and ability into his
