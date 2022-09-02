@@ -34,12 +34,12 @@ export default function Home() {
         special={false}
         description={[
           "This was a great telling of the story and history of Washington Mutual, the largest bank failure in U.S. History. It goes through the 132 year history of the bank and goes into great detail about option adjustable-rate and sub-prime loans.",
-          <br />,
-          <br />,
+          <br key={1} />,
+          <br key={2} />,
           "It was very informative. I never knew before hand how insane lending had got. They were literally lending out money to dead and homeless people. They required no proof of income or proof of anything really. The sales people were incentivized to give a loan to whoever they could, and not suprisingly, if you lend billions to people with no jobs or income, you might lose billions in bad loans.",
 
-          <br />,
-          <br />,
+          <br key={3} />,
+          <br key={4} />,
           "Reading all these stories about 2008 and market failures have made me less bullish on unregulated laissez-faire libertarian free-market capitalism. There are many cases where market participants enter a prisoner's delima (which seems to be the crux of 2008) and spill overs which creates consistent market failures that can only be handled by a counter balancing arbiter (the government).",
         ]}
       />
