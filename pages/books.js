@@ -140,7 +140,7 @@ export default function Home() {
         title="The Rational Male"
         author="Rollo Tamassi"
         special={false}
-        description="Didn't know what this was when I bought it. Turns out to be the original redpill manefesto. I personally don't agree with this life philosophy, but I do think it has a lot of things any young male should be conscious of. Staying grounded and focusing on yourself, etc."
+        description="The original redpill manefesto. I personally don't agree with this life philosophy, but I do think it has a lot of things any young male should be conscious of. One may disagree with the nihilistic hypergamistic view of cross-gender relations or disagree with the opinion that men's lives are harder, but at the base of the book is just vouching for good habits and looking inwards for validation instead of from the people around us"
       />
       <Book
         number={87}
@@ -283,14 +283,20 @@ export default function Home() {
         Edmund Moris
       </p>
       <br></br>
-      <p className="text-hover">
-        62. <span className="font-bold">Atomic Habits</span> - James Clear
-      </p>
-      <br></br>
-      <p className="text-hover">
-        61. <span className="font-bold">Brave New World</span> - Aldus Huxley
-      </p>
-      <br></br>
+      <Book
+        number={62}
+        title="Atomic Habits"
+        author="James Clear"
+        special={true}
+        description="The most important insight I got from this book was in the first 20 pages. It verbalized something that I've vaguely understood. It was the fact that your habits reinforce your identity and your identity reinforces your habits. If you wake up early, you probably identify as a morning person. Because you identify as a morning person, there's much less cognative friction in waking up early. It's just *who you are*. It's just *what you do*. Anytime I want to make a positive change in my life, I try to just become someone that does that. I want to get good at math? I'll just dive into it and *become a math guy*. Goes for anything."
+      />
+      <Book
+        number={61}
+        title="Brave New World"
+        author="Aldus Huxley"
+        special={true}
+        description=""
+      />
       <p>
         60. <span className="font-bold">Alice In Wonderland</span> - Lewis
         Carrol
