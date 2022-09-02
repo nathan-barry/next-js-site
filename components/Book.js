@@ -12,9 +12,7 @@ export default function Book({ number, title, author, special, description }) {
       <p
         className={`${
           description.length > 0 && isHovering ? "font-bold" : ""
-        } ${special ? "text-hover" : ""} ${
-          description.length > 0 ? "hover:text-bold" : ""
-        }`}
+        } ${special ? "text-hover" : ""}`}
         onMouseOver={() => setIsHovering(true)}
         onMouseOut={() => setIsHovering(false)}
       >
