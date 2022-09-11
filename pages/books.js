@@ -28,6 +28,15 @@ export default function Home() {
       <h2>Book List</h2>
       <br></br>
       <Book
+        number={103}
+        title="How Markets Fail"
+        author="John Cassidy"
+        special={true}
+        description={
+          "This book was very broad in scope. Talked about the economic theories of Keynes, Friedman, Hayek, Minsky, and others, John Von Nuemann and game theory, causes of market failures with natural occuring prisoner dillemas, market spillovers, information failure, and many others, and dove into the events that led to the 2008 financial crises."
+        }
+      />
+      <Book
         number={102}
         title="The Lost Bank"
         author="Kristen Grind"

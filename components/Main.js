@@ -28,12 +28,17 @@ export default function Main() {
       <p>19 year old developer, UT CS 25</p>
       <br></br>
 
+      <p>Currently:</p>
+      <Link href="https://bean.money/">
+        <p className="hover:text-hover">
+          - Solidity & Backend Dev at Beanstalk
+        </p>
+      </Link>
+      <br></br>
+
       <p>Previously:</p>
       <Link href="https://friktion.fi/">
         <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
-      </Link>
-      <Link href="https://bean.money/">
-        <p className="hover:text-hover">- Solidity Developer at Beanstalk</p>
       </Link>
       <Link href="https://www.rubicon.finance/">
         <p className="hover:text-hover">
