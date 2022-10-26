@@ -66,10 +66,10 @@ export default function Main() {
         </p>
       </Link>
 
-      <br></br>
+//       <br></br>
 
-      <p>Below are some blog posts</p>
-      <h2>---</h2>
+//       <p>Below are some blog posts</p>
+//       <h2>---</h2>
     </div>
   );
 }
