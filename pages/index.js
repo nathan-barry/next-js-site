@@ -20,11 +20,11 @@ export default function Home({ posts }) {
 
       <Main />
 
-      <div className="space-y-10">
-        {posts.map((post, index) => (
-          <Post key={index} post={post} />
-        ))}
-      </div>
+      // <div className="space-y-10">
+      //   {posts.map((post, index) => (
+      //     <Post key={index} post={post} />
+      //   ))}
+      // </div>
     </div>
   );
 }
