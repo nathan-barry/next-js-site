@@ -65,11 +65,6 @@ export default function Main() {
           Check out what books I like!
         </p>
       </Link>
-
-//       <br></br>
-
-//       <p>Below are some blog posts</p>
-//       <h2>---</h2>
     </div>
   );
 }
