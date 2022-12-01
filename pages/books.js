@@ -25,6 +25,7 @@ export default function Home() {
       <br></br>
       <br></br>
       <br></br>
+      <br></br>
       <h2>[ 2022 | Age 19 ]</h2>
       <br></br>
       <Book
@@ -130,6 +131,7 @@ export default function Home() {
         special={false}
         description="I think that this is an important book for everyone to read. I disagreed with a lot of things and the book is very heavily biased, but as Zinn points out himself, it is to give the counterview of the majority of mainstream history. "
       />
+      <br></br>
       <br></br>
       <h2>[ 2021 | Age 18 ]</h2>
       <br></br>
@@ -321,6 +323,7 @@ export default function Home() {
       </p>
       <br></br>
       <br></br>
+      <br></br>
       <h2>[ 2020 | Age 17 ]</h2>
       <br></br>
       <p>
@@ -411,6 +414,7 @@ export default function Home() {
         40. <span className="font-bold">The Denial Of Death</span> - Ernest
         Becker
       </p>
+      <br></br>
       <br></br>
       <br></br>
       <h2>[ 2019 | Age 16 ]</h2>
@@ -517,6 +521,7 @@ export default function Home() {
       </p>
       <br></br>
       <br></br>
+      <br></br>
       <h2>[ 2018 | Age 15 ]</h2>
       <br></br>
       <p className="text-hover">
@@ -580,6 +585,7 @@ export default function Home() {
       </p>
       <br></br>
       <br></br>
+      <br></br>
       <h2>[ 2017 | Age 14 ]</h2>
       <br></br>
       <p className="text-hover">
@@ -604,6 +610,7 @@ export default function Home() {
       </p>
       <br></br>
       <br></br>
+      <br></br>
       <h2>[ 2016 | Age 13 ]</h2>
       <br></br>
       <Book
@@ -613,6 +620,7 @@ export default function Home() {
         special={true}
         description=""
       />
+      <br></br>
       <br></br>
       <p className="italic">
         "The average person puts only 25% of his energy and ability into his
