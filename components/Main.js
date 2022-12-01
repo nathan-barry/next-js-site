@@ -47,7 +47,7 @@ export default function Main() {
       <Link href="https://github.com/nathan-barry">
         <p className="hover:text-hover">- Github</p>
       </Link>
-      <Link href="https://www.linkedin.com/in/0xnathanbarry">
+      <Link href="https://www.linkedin.com/in/nathanrs">
         <p className="hover:text-hover">- Linkedin</p>
       </Link>
       <br></br>

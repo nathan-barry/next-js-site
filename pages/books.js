@@ -25,7 +25,7 @@ export default function Home() {
       <br></br>
       <br></br>
       <br></br>
-      <h2>Book List</h2>
+      <h2>[ 2022 | Age 19 ]</h2>
       <br></br>
       <Book
         number={103}
@@ -130,6 +130,9 @@ export default function Home() {
         special={false}
         description="I think that this is an important book for everyone to read. I disagreed with a lot of things and the book is very heavily biased, but as Zinn points out himself, it is to give the counterview of the majority of mainstream history. "
       />
+      <br></br>
+      <h2>[ 2021 | Age 18 ]</h2>
+      <br></br>
       <Book
         number={90}
         title="The Soverign Individual"
@@ -317,6 +320,9 @@ export default function Home() {
         - William L. Shirer
       </p>
       <br></br>
+      <br></br>
+      <h2>[ 2020 | Age 17 ]</h2>
+      <br></br>
       <p>
         58. <span className="font-bold">Memories, Dreams, Reflections</span> -
         Carl Jung
@@ -405,6 +411,9 @@ export default function Home() {
         40. <span className="font-bold">The Denial Of Death</span> - Ernest
         Becker
       </p>
+      <br></br>
+      <br></br>
+      <h2>[ 2019 | Age 16 ]</h2>
       <br></br>
       <p>
         39. <span className="font-bold">The Tipping Point</span> - Malcom
@@ -507,6 +516,9 @@ export default function Home() {
         Peterson
       </p>
       <br></br>
+      <br></br>
+      <h2>[ 2018 | Age 15 ]</h2>
+      <br></br>
       <p className="text-hover">
         18. <span className="font-bold">The Richest Man In Babylon</span> -
         George S. Clason
@@ -567,6 +579,9 @@ export default function Home() {
         Duhigg
       </p>
       <br></br>
+      <br></br>
+      <h2>[ 2017 | Age 14 ]</h2>
+      <br></br>
       <p className="text-hover">
         6. <span className="font-bold">Mastery</span> - Robert Greene
       </p>
@@ -587,6 +602,9 @@ export default function Home() {
         2. <span className="font-bold">Excellent Sheep</span> - William
         Deresiewicz
       </p>
+      <br></br>
+      <br></br>
+      <h2>[ 2016 | Age 13 ]</h2>
       <br></br>
       <Book
         number={1}
