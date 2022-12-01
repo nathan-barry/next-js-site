@@ -25,7 +25,6 @@ export default function Home() {
       <br></br>
       <br></br>
       <br></br>
-      <br></br>
       <h2>[ 2022 | Age 19 ]</h2>
       <br></br>
       <Book
