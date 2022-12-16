@@ -4,7 +4,9 @@ export default function Post({ post }) {
   return (
     <Link href={`/posts/${post.slug}`}>
       <div className="hover:text-hover">
-        <div className="">{post.data.date}</div>
+        <div className="">
+          {post.data.date} | {post.data.tag}
+        </div>
         <h3 className="">{post.data.title}</h3>
         <p className="">{post.data.exerpt}</p>
       </div>

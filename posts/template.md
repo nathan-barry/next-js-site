@@ -2,7 +2,7 @@
 title: "Template Title"
 date: "2022-07-01"
 exerpt: "This is a template except for a template title"
-tag: "Update"
+tag: "Misc"
 ---
 
 ## Welcome Heading 2

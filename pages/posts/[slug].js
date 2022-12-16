@@ -16,8 +16,11 @@ export default function PostPage({
         <meta name="description" content={exerpt} />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="">{date}</div>
-      <h1 className="mb-8">{title}</h1>
+      <div className="text-hover">
+        {date} | {tag}
+      </div>
+      <h3 className="text-hover">{title}</h3>
+      <div className="text-hover">{exerpt}</div>
       <div className="parsedMarkdown">
         <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
       </div>
