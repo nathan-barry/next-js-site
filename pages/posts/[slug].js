@@ -5,7 +5,7 @@ import { marked } from "marked";
 import Head from "next/head";
 
 export default function PostPage({
-  data: { title, date, exerpt },
+  data: { title, date, exerpt, tag },
   slug,
   content,
 }) {

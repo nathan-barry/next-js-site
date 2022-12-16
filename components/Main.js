@@ -62,8 +62,11 @@ export default function Main() {
 
       <Link href="/books">
         <p className="hover:text-hover underline font-bold">
-          Check out what books I like!
+          [[Check out what books I like!]]
         </p>
+      </Link>
+      <Link href="/updates">
+        <p className="hover:text-hover underline font-bold">[[Life Updates]]</p>
       </Link>
     </div>
   );
