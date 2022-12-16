@@ -12,8 +12,6 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>^ This person's books</h1>
-      <br></br>
       <p>
         I've always enjoyed seeing what books other people have read. Below are
         all the books I've read since middle school, roughly in order. Those

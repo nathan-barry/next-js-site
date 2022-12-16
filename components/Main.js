@@ -32,7 +32,6 @@ export default function Main() {
       <Link href="https://friktion.fi/">
         <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
       </Link>
-      <p>- Solidity Contractor</p>
       <Link href="https://www.rubicon.finance/">
         <p className="hover:text-hover">
           - Full-Stack Developer at Rubicon Finance
@@ -53,7 +52,6 @@ export default function Main() {
       <br></br>
 
       <p>Info:</p>
-      <p>- Arch linux and i3vm ethusiast, avid vim user</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
       <Link href="/me.jpeg">
         <p className="hover:text-hover">- Very handsome :)</p>
@@ -62,11 +60,11 @@ export default function Main() {
 
       <Link href="/books">
         <p className="hover:text-hover underline font-bold">
-          [[Check out what books I like!]]
+          [Check out what books I like!]
         </p>
       </Link>
       <Link href="/updates">
-        <p className="hover:text-hover underline font-bold">[[Life Updates]]</p>
+        <p className="hover:text-hover underline font-bold">[Life Updates]</p>
       </Link>
     </div>
   );
