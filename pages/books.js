@@ -29,7 +29,7 @@ export default function Home() {
         author="John Cassidy"
         special={true}
         description={
-          "This book was very broad in scope. Talked about the economic theories of Keynes, Friedman, Hayek, Minsky, and others, John Von Nuemann and game theory, causes of market failures with natural occuring prisoner dillemas, market spillovers, information failure, and many others, and dove into the events that led to the 2008 financial crises."
+          "This book was excellent and very broad in scope. Talked about the economic theories of Keynes, Friedman, Hayek, Minsky, and others, John Von Nuemann and game theory, causes of market failures with natural occuring prisoner dillemas, market spillovers, information failure, and many others, and dove into the events that led to the 2008 financial crises."
         }
       />
       <Book
@@ -37,30 +37,23 @@ export default function Home() {
         title="The Lost Bank"
         author="Kristen Grind"
         special={false}
-        description={[
-          "This was a great telling of the story and history of Washington Mutual, the largest bank failure in U.S. History. It goes through the 132 year history of the bank and goes into great detail about option adjustable-rate and sub-prime loans.",
-          <br key={1} />,
-          <br key={2} />,
-          "It was very informative. I never knew before hand how insane lending had got. They were literally lending out money to dead and homeless people. They required no proof of income or proof of anything really. The sales people were incentivized to give a loan to whoever they could, and not suprisingly, if you lend billions to people with no jobs or income, you might lose billions in bad loans.",
-
-          <br key={3} />,
-          <br key={4} />,
-          "Reading all these stories about 2008 and market failures have made me less bullish on unregulated laissez-faire libertarian free-market capitalism. There are many cases where market participants enter a prisoner's delima (which seems to be the crux of 2008) and spill overs which creates consistent market failures that can only be handled by a counter balancing arbiter (the government).",
-        ]}
+        description={
+          "This was a great telling of the story and history of Washington Mutual, the largest bank failure in U.S. History. It goes through the 132 year history of the bank and goes into great detail about option adjustable-rate and sub-prime loans. I never knew before hand how insane lending had got. They were literally lending out money to dead and homeless people, and not suprisingly, ended up losing billions in bad loans. Reading all these stories about 2008 and market failures have made me less bullish on unregulated laissez-faire libertarian free-market capitalism. There are many cases where market participants enter a prisoner's delima (which seems to be the crux of 2008) and spill overs which creates consistent market failures that can only be handled by a counter balancing arbiter (the government)."
+        }
       />
       <Book
         number={99}
         title="Masters of DOOM"
         author="David Kushner"
         special={true}
-        description="I've always loved anything I could get my hands on about John Carmack. Really just an insane individual."
+        description="I've always been a massive fan of John Carmack. The paragon of the engineer, of competence itself. This story goes over the entire video game arc of him and John Romero. The ingenious of Carmack for every game engine he developed was other wordly. Once in a generation mind."
       />
       <Book
         number={98}
         title="Flash Boys"
         author="Michael Lewis"
         special={true}
-        description=""
+        description="This book covers the rise of high frequency trading firms and the absurd length they went to gain a speed advantage over others and how they were making billions of dollars risk-free by front running everyone else's trades. Absolutely insane that nothing happened to these guys."
       />
       <Book
         number={97}
@@ -89,7 +82,7 @@ export default function Home() {
         title="Atlas Shrugged"
         author="Ayn Rand"
         special={true}
-        description="I did love Ayn Rand's novels. I think I did prefer 'The Fountainhead' for the most part, but this story does a great job at inspiring what man can be. Ayn Rand always gets a bad rap for essentially being humanist propaganda and having simplified dichotimistic world views, but I feel like that's a part of what makes her philosophy speak to many on a deep level. Yes, her characters are black and white, but it paints an archetypal ideal of the best and worst of man and paints an image of what we could inspire to be: the creative force of man."
+        description="I did love Ayn Rand's novels. I think I did prefer 'The Fountainhead' for the most part, but this story does a great job at appealing to the ideal side of humanism. Ayn Rand always gets a bad rap for essentially being humanist propaganda for having simplified dichotimistic world views, but I feel like that's a part of what makes her philosophy speak to many on a deep level. Yes, her characters are black and white, but it paints an archetypal ideal of the best and worst of man and paints an image of what we could inspire to be: individuals who make the world a better place through human ingenuity alone despite all else."
       />
       <Book
         number={93}
@@ -109,8 +102,8 @@ export default function Home() {
         number={91}
         title="The Fountain Head"
         author="Ayn Rand"
-        special={false}
-        description=""
+        special={true}
+        description="Already wrote a bit about Rand for Atlas Shrugged (banger title btw). I think that this is her best work as it just solely inspires the creative side of man through the archetypal story of a hero that will complete his quest no matter what and who stays true to himself and his vision despite the world telling him that his perception of the world is incorrect."
       />
       <Book
         number={90}
@@ -134,7 +127,7 @@ export default function Home() {
         title="The Soverign Individual"
         author="James Dale Davidson & William Rees-Mogg"
         special={true}
-        description="This book is a Magnum Opus and a roadmap to the future and how decentralization and technology will give unprecedented freedom to the individual. One of my top 3 books. It was as grand as Sapiens or Super Intelligence. It's been a while, I should reread it again."
+        description="There seems to be a trend in human history where new innovations start under a centralized institution. The internet and dozens of other innovations under the U.S. Military. Literateness used to be solely for the royal and religious sectors of society. Civilization itself, under the egyptians, babylonians, etc, started under a centralized power structure. As society progresses, such innovations trickle down from centralized institutions down to individuals. This book talks a lot about this past trend and tries to predict future trends from it, and most of the predictions have held out quite well."
       />
       <Book
         number={87}
@@ -148,7 +141,7 @@ export default function Home() {
         title="The Rational Male"
         author="Rollo Tamassi"
         special={false}
-        description="The original redpill manefesto. I personally don't agree with this life philosophy, but I do think it has a lot of things any young male should be conscious of. One may disagree with the nihilistic hypergamistic view of cross-gender relations or disagree with the opinion that men's lives are harder, but at the base of the book is just vouching for good habits and looking inwards for validation instead of from the people around us"
+        description="The original redpill manefesto. I personally don't agree with this life philosophy, but I do think it has a lot of things any young male should be conscious of. One may disagree with the nihilistic hypergamistic view of cross-gender relations or disagree with the opinion that men's lives are harder, but at the base of the book is just vouching for good habits and looking inwards for validation instead of from the people around us."
       />
       <Book
         number={85}
@@ -169,7 +162,7 @@ export default function Home() {
         title="Beyond Order"
         author="Jordan B. Peterson"
         special={false}
-        description="I used to be an incredibly big Jordan B. Peterson fan when I was younger. I primarily liked his earliest stuff with his Maps of Meaning and Biblical Series, before things got political. I do enjoy the talks about morality and philosophy. I've listened to the majority of content he had produced up to 2020 and have personally found much of the new to be rehash of the old. I saw him give a lecture in Austin, his first public tour in a couple of years. It was all stuff I've already heard him say in the hundreds of hours I've listened to him. I feel like that's how this book felt. Perhaps I was also in a different point in life where such advice was less relevant."
+        description="I used to be a big Jordan B. Peterson fan when I was younger. I liked his earliest stuff with his Maps of Meaning and Biblical Series. I do enjoy the talks about morality and philosophy. I've listened to the majority of content he had produced up to 2020 and have found much of the new to be rehash of the old. I saw him give a lecture in Austin, his first public tour in a couple of years. It was all stuff I've already heard him say in the hundreds of hours I've listened to him. I feel like that's how this book felt to me."
       />
       <Book
         number={82}
@@ -758,7 +751,7 @@ export default function Home() {
         title="The 48 Laws Of Power"
         author="Robert Greene"
         special={true}
-        description=""
+        description="You might be asking, 'Who the hell gave a 13 year old this book??' I have no idea how I first heard of it. All I remember is that I checked it out from my local library and read it in a week."
       />
       <p className="mt-16 italic">
         "The average person puts only 25% of his energy and ability into his

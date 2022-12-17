@@ -11,7 +11,7 @@ export default function Book({ number, title, author, special, description }) {
     <div className="mb-3" onClick={() => clickHandler()}>
       <p
         className={`${
-          description.length > 0 && isHovering ? "font-bold" : ""
+          description.length > 0 && isHovering ? "font-bold text-hover" : ""
         } ${special ? "text-hover" : ""}`}
         onMouseOver={() => setIsHovering(true)}
         onMouseOut={() => setIsHovering(false)}
