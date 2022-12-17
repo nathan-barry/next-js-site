@@ -8,7 +8,7 @@ export default function Book({ number, title, author, special, description }) {
     setIsHovering(false);
   };
   return (
-    <div onClick={() => clickHandler()}>
+    <div className="mb-3" onClick={() => clickHandler()}>
       <p
         className={`${
           description.length > 0 && isHovering ? "font-bold" : ""
@@ -28,7 +28,6 @@ export default function Book({ number, title, author, special, description }) {
           {description}
         </p>
       ) : null}
-      <br></br>
     </div>
   );
 }
