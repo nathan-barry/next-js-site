@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Post({ post }) {
   return (
     <Link href={`/posts/${post.slug}`}>
-      <div className="hover:text-hover">
+      <div className="hover:text-hover mb-10">
         <div className="">
           {post.data.date} | {post.data.tag}
         </div>

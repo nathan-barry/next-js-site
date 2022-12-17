@@ -14,23 +14,21 @@ const monofont = JetBrains_Mono({
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className={monofont.className}>
-      <div className="w-full h-full px-8 pt-12 pb-16 sm:p-16 md:p-28 lg:px-64 xl:px-96 2xl:px-128 max-w-2000">
-        <Header />
-        <Component {...pageProps} />
-        <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-1Y735N717D"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
+    <div className="w-full h-full px-8 pt-12 pb-16 sm:p-16 md:p-28 lg:px-64 xl:px-96 2xl:px-128 max-w-2000">
+      <Header />
+      <Component {...pageProps} />
+      <Script
+        strategy="afterInteractive"
+        src="https://www.googletagmanager.com/gtag/js?id=G-1Y735N717D"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
           gtag('config', 'G-1Y735N717D');
         `}
-        </Script>
-      </div>
+      </Script>
     </div>
   );
 }
