@@ -9,11 +9,8 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>nathan.rs</title>
-        <meta
-          name="description"
-          content="Rust dev, Arch Linux user, Vim enthusiast"
-        />
+        <title>nathan.rs - updates</title>
+        <meta name="description" content="Nathan's life updates" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

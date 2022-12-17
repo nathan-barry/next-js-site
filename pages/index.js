@@ -6,10 +6,7 @@ export default function Home({ posts }) {
     <div>
       <Head>
         <title>nathan.rs</title>
-        <meta
-          name="description"
-          content="Rust dev, Arch Linux user, Vim enthusiast"
-        />
+        <meta name="description" content="19 year old developer, UT CS 25" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

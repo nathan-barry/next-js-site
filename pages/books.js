@@ -5,11 +5,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>nathan.rs</title>
-        <meta
-          name="description"
-          content="Rust dev, Arch Linux user, Vim enthusiast"
-        />
+        <title>nathan.rs - books</title>
+        <meta name="description" content="Nathan's book list" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <p>
