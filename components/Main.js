@@ -2,9 +2,9 @@ import Link from "next/link";
 import Typewriter from "typewriter-effect";
 
 const quotes = [
-  "The Work Praises The Man",
-  "Through Struggle Comes Meaning",
   "A Wise Man Once Said Nothing",
+  "Through Struggle Comes Meaning",
+  "The Work Praises The Man",
   "Fortune Favors The Bold",
 ];
 
