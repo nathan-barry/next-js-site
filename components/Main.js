@@ -2,10 +2,10 @@ import Link from "next/link";
 import Typewriter from "typewriter-effect";
 
 const quotes = [
-  "Through Struggle Comes Meaning",
   "The Work Praises The Man",
-  "Fortune Favors The Bold",
+  "Through Struggle Comes Meaning",
   "A Wise Man Once Said Nothing",
+  "Fortune Favors The Bold",
 ];
 
 export default function Main() {
