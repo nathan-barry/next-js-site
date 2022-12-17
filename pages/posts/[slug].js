@@ -12,10 +12,7 @@ export default function PostPage({
   return (
     <div className="">
       <Head>
-        <title>
-          {title}
-          {tag}
-        </title>
+        <title>{"nathan.rs - " + title}</title>
         <meta name="description" content={exerpt} />
         <link rel="icon" href="/favicon.ico" />
       </Head>
