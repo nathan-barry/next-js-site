@@ -4,7 +4,7 @@
 
 @layer base {
 	html {
-		font-family: monospace
+		font-family: serif
 	}
 	body {
 		@apply bg-dark text-main tracking-wide
