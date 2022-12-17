@@ -3,8 +3,8 @@ import Typewriter from "typewriter-effect";
 
 const quotes = [
   "A Wise Man Once Said Nothing",
-  "Through Struggle Comes Meaning",
   "The Work Praises The Man",
+  "Through Struggle Comes Meaning",
   "Fortune Favors The Bold",
 ];
 
@@ -26,7 +26,7 @@ export default function Main() {
 
       <p>19 year old developer, UT CS 25</p>
 
-      <p className="mt-6">Previously:</p>
+      <p className="mt-6 font-bold">Previously:</p>
       <Link href="https://friktion.fi/">
         <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
       </Link>
@@ -39,19 +39,14 @@ export default function Main() {
         <p className="hover:text-hover">{`- VP of UT's Blockchain Club`}</p>
       </Link>
 
-      <p className="mt-6">More:</p>
+      <p className="mt-6 font-bold">Info:</p>
       <Link href="https://github.com/nathan-barry">
         <p className="hover:text-hover">- Github</p>
       </Link>
       <Link href="https://www.linkedin.com/in/nathanrs">
         <p className="hover:text-hover">- Linkedin</p>
       </Link>
-
-      <p className="mt-6">Info:</p>
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
-      <Link href="/me.jpg">
-        <p className="hover:text-hover">- Very handsome :)</p>
-      </Link>
 
       <div className="mt-10">
         <Link href="/books">
