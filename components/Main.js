@@ -2,10 +2,10 @@ import Link from "next/link";
 import Typewriter from "typewriter-effect";
 
 const quotes = [
-  "A Wise Man Once Said Nothing",
   "Through Struggle Comes Meaning",
   "The Work Praises The Man",
   "Fortune Favors The Bold",
+  "A Wise Man Once Said Nothing",
 ];
 
 export default function Main() {
@@ -18,7 +18,7 @@ export default function Main() {
             autoStart: true,
             loop: true,
             delay: 50,
-            pauseFor: 6000,
+            pauseFor: 4500,
             deleteSpeed: 50,
           }}
         />
