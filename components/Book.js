@@ -23,7 +23,7 @@ export default function Book({ number, title, author, special, description }) {
         <p
           onMouseOver={() => setIsHovering(true)}
           onMouseOut={() => setIsHovering(false)}
-          className="pl-12 pt-4 pb-4"
+          className="pl-6 pt-4 pb-4"
         >
           {description}
         </p>
