@@ -13,8 +13,8 @@ export default function PostPage({
     <div className="">
       <Head>
         <title>
-          {tag}
           {title}
+          {tag}
         </title>
         <meta name="description" content={exerpt} />
         <link rel="icon" href="/favicon.ico" />
