@@ -21,6 +21,15 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2022 | Age 19 ]</h2>
 
       <Book
+        number={102}
+        title="A Beautiful Mind"
+        author="Sylvia Nasar"
+        special={false}
+        description={
+          "This is a biography of the mathematician John Nash. He produced great work in multiple areas of mathematics but you probably have heard of him from Game Theory via the Nash Equilibrium. He sufferd from Schizophrenia and lost a large chunk of his productive life due to it, kind of in a reverse Flowers for Algernon way. Started off incredibly smart and promising, slowly lost the ability to reason, and then gained it back. Sad in its own way. By then much of his life had passed him by. He still produced work but his golden years were far behind him. Makes me think of how precious life is."
+        }
+      />
+      <Book
         number={101}
         title="How Markets Fail"
         author="John Cassidy"
@@ -683,8 +692,8 @@ export default function Home() {
       />
       <Book
         number={9}
-        title="Essential Speed Reading Techniques"
-        author="Katya Seberson"
+        title="Flowers for Algernon"
+        author="Daniel Keyes"
         special={false}
         description=""
       />
