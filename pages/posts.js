@@ -16,7 +16,10 @@ export default function Home({ posts }) {
 
       <div className="space-y-10">
         {posts
-          .filter((post, index) => post.data.tag != "Update")
+          .filter(
+            (post, index) =>
+              post.data.tag != "Update" && post.data.title != "Template Title"
+          )
           .map((post, index) => (
             <Post key={index} post={post} />
           ))}

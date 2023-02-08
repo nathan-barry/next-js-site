@@ -18,6 +18,18 @@ export default function Home() {
         see some of my thoughts on the book :)
       </p>
 
+      <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
+
+      <Book
+        number={103}
+        title="The Smartest Guys In The Room"
+        author="Bethany McLean"
+        special={false}
+        description={
+          "It's always interesting to ready more about these interconnected web of major corporations that had a large impact on american society, mainly because we learn about these things as if they happened in a vacuum while in reality thousands of other things were going on and much of it interweaved. After reading books about Bechtel and McKinsey and seeing how those companies had a large impact on Enron and how it all feeds one another, one realizes what a complicated beast humanity is. I also just thought it's interesting seeing how historically, periods of exuberance come again and again and how our window of pattern recognition is far smaller than how often these periods occur. Problems are always ignored when the momentum of things are positive and it is only until the floor from under us begins to shake that we realize our folly. Innate suscpicion is the only cure to exaulted hubris, but it's a fine line between conservatism and letting opportunities pass."
+        }
+      />
+
       <h2 className="mt-16 mb-5">[ 2022 | Age 19 ]</h2>
 
       <Book
@@ -26,7 +38,7 @@ export default function Home() {
         author="Sylvia Nasar"
         special={false}
         description={
-          "This is a biography of the mathematician John Nash. He produced great work in multiple areas of mathematics but you probably have heard of him from Game Theory via the Nash Equilibrium. He sufferd from Schizophrenia and lost a large chunk of his productive life due to it, kind of in a reverse Flowers for Algernon way. Started off incredibly smart and promising, slowly lost the ability to reason, and then gained it back. Sad in its own way. By then much of his life had passed him by. He still produced work but his golden years were far behind him. Always reminds me of how precious and fragile life truly is."
+          "This is a biography of the mathematician John Nash. He produced great work in multiple areas of mathematics but you probably have heard of him from Game Theory via the Nash Equilibrium. He sufferd from Schizophrenia and lost a large chunk of his productive life due to it, kind of in a reverse Flowers for Algernon way. Started off incredibly smart and promising, slowly lost the ability to reason, and then gained it back. Sad in its own way. By then much of his life had passed him by. He still produced work but his golden years had pass. Always reminds me to not take the time I have today for granted."
         }
       />
       <Book

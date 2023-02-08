@@ -24,7 +24,7 @@ export default function Main() {
         />
       </h2>
 
-      <p>19 year old developer, UT CS 25</p>
+      <p>20 year old developer, UT CS 25</p>
 
       <p className="mt-6 font-bold">Previously:</p>
       <Link href="https://friktion.fi/">
@@ -34,9 +34,6 @@ export default function Main() {
         <p className="hover:text-hover">
           - Full-Stack Developer at Rubicon Finance
         </p>
-      </Link>
-      <Link href="https://www.texasblockchain.org/">
-        <p className="hover:text-hover">{`- VP of UT's Blockchain Club`}</p>
       </Link>
 
       <p className="mt-6 font-bold">Info:</p>
@@ -56,9 +53,6 @@ export default function Main() {
         </Link>
         <Link href="/posts">
           <p className="hover:text-hover underline font-bold">[Blog Posts]</p>
-        </Link>
-        <Link href="/updates">
-          <p className="hover:text-hover underline font-bold">[Life Updates]</p>
         </Link>
       </div>
     </div>

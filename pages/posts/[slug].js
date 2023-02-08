@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
 import Head from "next/head";
+import Link from "next/link";
 
 export default function PostPage({
   data: { title, date, exerpt, tag },
@@ -16,11 +17,16 @@ export default function PostPage({
         <meta name="description" content={exerpt} />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="text-hover">
-        {date} | {tag}
-      </div>
-      <h3 className="text-hover">{title}</h3>
-      <div className="text-hover">{exerpt}</div>
+
+      <Link href="https://nathan.rs/posts">
+        <div className="text-hover">
+          {date} | {tag}
+        </div>
+        <h3 className="text-hover">{title}</h3>
+        <div className="text-hover">{exerpt}</div>
+      </Link>
+
+      <div></div>
       <div className="parsedMarkdown">
         <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
       </div>
