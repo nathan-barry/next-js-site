@@ -21,12 +21,39 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
-        number={103}
+        number={106}
         title="The Smartest Guys In The Room"
         author="Bethany McLean"
         special={false}
         description={
           "It's always interesting to ready more about these interconnected web of major corporations that had a large impact on american society, mainly because we learn about these things as if they happened in a vacuum while in reality thousands of other things were going on and much of it interweaved. After reading books about Bechtel and McKinsey and seeing how those companies had a large impact on Enron and how it all feeds one another, one realizes what a complicated beast humanity is. I also just thought it's interesting seeing how historically, periods of exuberance come again and again and how our window of pattern recognition is far smaller than how often these periods occur. Problems are always ignored when the momentum of things are positive and it is only until the floor from under us begins to shake that we realize our folly. Innate suscpicion is the only cure to exaulted hubris, but it's a fine line between conservatism and letting opportunities pass."
+        }
+      />
+      <Book
+        number={105}
+        title="The Firm"
+        author="Duff McDonald"
+        special={false}
+        description={
+          "This is a history of McKinsey, the famous consulting firm. It's crazy to see that these guys literally created consulting as an industry and how it shaped business across the world. Helped bring the managerial revolution to the world and now currently has the largest alumni network, with ex-McKinsey people running or holding high positions in the majority of the fortune 500 companies."
+        }
+      />
+      <Book
+        number={104}
+        title="The United States and the Middle East"
+        author="Salim Yaqub"
+        special={false}
+        description={
+          "This is a Greats Course lecture series on Audible. I've always had a fairly deep amount of knowledge with western history but lacked historical knowledge of other cultures. The whole rise of pan-Arabism, the origin of anti-US hostility, anti-Zionism and the relation between Israel and the other states, the history of colonial european powers in the area, and the dynamic the cold war played are things I think are necessary to know to understand the last century of conflicts with this part of the world."
+        }
+      />
+      <Book
+        number={103}
+        title="The Giver"
+        author="Lois Lowry"
+        special={false}
+        description={
+          "I actually read this book when I was in middle school. I forgot about it and, with my current setup of the website, if I wanted to add it in correct chronological order, I'd have to manually increment each book number by one (so I'd have to do this about a hundred times). I'm just gonna put it here. Decent book. Don't read fiction much but this was alright."
         }
       />
 

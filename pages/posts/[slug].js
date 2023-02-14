@@ -18,7 +18,7 @@ export default function PostPage({
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Link href="https://nathan.rs/posts">
+      <Link href="/posts">
         <div className="text-hover">
           {date} | {tag}
         </div>
