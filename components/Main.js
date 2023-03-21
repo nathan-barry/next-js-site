@@ -33,12 +33,12 @@ export default function Main() {
       {/* <Link href="https://www.linkedin.com/in/nathanrs">
         <p className="hover:text-hover">- Linkedin</p>
       </Link> */}
-      <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
+      {/* <p>- 4:28 mile, 245lb bench, 15:56 5k</p> */}
 
       <div className="mt-10">
         <Link href="/books">
           <p className="hover:text-hover underline font-bold">
-            [Check out what books I like!]
+            [Checkout what books I like!]
           </p>
         </Link>
         <Link href="/posts">
