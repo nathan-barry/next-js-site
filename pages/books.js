@@ -21,6 +21,27 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={109}
+        title="No Longer Human"
+        author="Osamu Dazai"
+        special={false}
+        description=""
+      />
+      <Book
+        number={108}
+        title="The Roman Empire"
+        author="Gregory S. Aldrete"
+        special={false}
+        description=""
+      />
+      <Book
+        number={107}
+        title="The Rise of Rome"
+        author="Gregory S. Aldrete"
+        special={false}
+        description=""
+      />
+      <Book
         number={106}
         title="The Smartest Guys In The Room"
         author="Bethany McLean"

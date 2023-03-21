@@ -24,25 +24,15 @@ export default function Main() {
         />
       </h2>
 
-      <p>20 year old developer, UT CS 25</p>
-
-      <p className="mt-6 font-bold">Previously:</p>
-      <Link href="https://friktion.fi/">
-        <p className="hover:text-hover">- Rust Developer at Friktion Labs</p>
-      </Link>
-      <Link href="https://www.rubicon.finance/">
-        <p className="hover:text-hover">
-          - Full-Stack Developer at Rubicon Finance
-        </p>
-      </Link>
+      <p>NLP undergrad researcher @ UT Austin</p>
 
       <p className="mt-6 font-bold">Info:</p>
       <Link href="https://github.com/nathan-barry">
         <p className="hover:text-hover">- Github</p>
       </Link>
-      <Link href="https://www.linkedin.com/in/nathanrs">
+      {/* <Link href="https://www.linkedin.com/in/nathanrs">
         <p className="hover:text-hover">- Linkedin</p>
-      </Link>
+      </Link> */}
       <p>- 4:28 mile, 245lb bench, 15:56 5k</p>
 
       <div className="mt-10">
