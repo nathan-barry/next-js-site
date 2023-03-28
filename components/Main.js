@@ -24,7 +24,8 @@ export default function Main() {
         />
       </h2>
 
-      <p>NLP undergrad researcher @ UT Austin</p>
+      <p>20 year old dev, UT CS '25</p>
+      <p>{"{Slowly amassing skills}"}</p>
 
       <p className="mt-6 font-bold">Info:</p>
       <Link href="https://github.com/nathan-barry">

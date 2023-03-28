@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={110}
+        title="Empire of Pain"
+        author="Patrick Radden Keefe"
+        special={false}
+        description="This book is about the Sackler family and the opioid pandemic. I realized that, like how a lot of women enjoy true crime stories, I am a sucker for the male equivilant: white-collar crime stories. This is like the 8th book I've read over some corporate story of fraud and greed."
+      />
+      <Book
         number={109}
         title="No Longer Human"
         author="Osamu Dazai"
@@ -32,7 +39,7 @@ export default function Home() {
         title="The Roman Empire"
         author="Gregory S. Aldrete"
         special={false}
-        description=""
+        description="Hail Caesar!"
       />
       <Book
         number={107}
