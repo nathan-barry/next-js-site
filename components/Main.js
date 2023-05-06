@@ -24,7 +24,7 @@ export default function Main() {
         />
       </h2>
 
-      <p>20 year old dev, UT CS '25</p>
+      <p>20 year old dev, CS & Math @ UT Austin</p>
       <p>{"{Slowly amassing skills}"}</p>
 
       <p className="mt-6 font-bold">Info:</p>
@@ -44,6 +44,11 @@ export default function Main() {
         </Link>
         <Link href="/posts">
           <p className="hover:text-hover underline font-bold">[Blog Posts]</p>
+        </Link>
+        <Link href="/quotes">
+          <p className="hover:text-hover underline font-bold">
+            [Favorite Quotes]
+          </p>
         </Link>
       </div>
     </div>
