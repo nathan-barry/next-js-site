@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={112}
+        title="The Everthing Store"
+        author="Brad Stone"
+        special={true}
+        description="This book is about Jeff Bezos and the founding of Amazon. Really surprised me. I think that out of many of the large tech leaders, Bezos might be the one to emulate."
+      />
+      <Book
         number={111}
         title="Chip War"
         author="Patrick Radden Keefe"

@@ -9,7 +9,35 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <p>
+        Below is a collection of memorable quotes I've come across over the
+        years that somehow struck me in some way. I've lost many due to not
+        having one set location for them, so I decided for that one place to be
+        here.
+      </p>
+
+      <h2 className="mt-16 mb-5">Quotes</h2>
+
       <p className="text-lg leading-relaxed text-justify mb-2">
+        It's so hard to stand on one's own record... It's simple to seek
+        substitutes for comptetence&mdash;such easy subsitutes: love, charm,
+        kindness, charity.{" "}
+        <span className="text-hover">
+          But there is no substitute for competence.
+        </span>
+      </p>
+      <p className="text-right text-base mb-12">
+        &mdash; Ayn Rand, <i>The Fountainhead</i>
+      </p>
+
+      <p className="text-lg leading-relaxed text-justify mb-2">
+        Give me a lever long enough and a fulcrum on which to place it, and{" "}
+        <span className="text-hover">I shall move the world</span>
+      </p>
+      <p className="text-right text-base mb-12">&mdash; Archimedes</p>
+
+      <p className="text-lg leading-relaxed text-justify mb-2">
+        {" "}
         He was a man without affections. It would be harsh to say he had no
         heart, for he was susceptible of deep emotions, but not for
         individuals...{" "}
@@ -18,11 +46,10 @@ export default function Home() {
           machine.
         </span>
       </p>
-      <p className="text-right text-base mb-6">
+      <p className="text-right text-base mb-12">
         &mdash; Benjamin Disraeli, <i>Coningsby</i>
       </p>
 
-      <br></br>
       <p className="text-lg leading-relaxed text-justify mb-2">
         The average person puts only 25% of his energy and ability into his
         work.{" "}
@@ -32,24 +59,19 @@ export default function Home() {
           who devote 100%
         </span>
       </p>
-      <p className="text-right text-base mb-6">&mdash; Andrew Carnegie</p>
+      <p className="text-right text-base mb-12">&mdash; Andrew Carnegie</p>
 
-      <br></br>
       <p className="text-lg leading-relaxed text-justify mb-2">
         The credit belongs to the man who is actually in the arena, whose face
-        is marred by dust and sweat and blood; who strives valiantly; who errs,
-        who comes short again and again, because there is no effort without
-        error and shortcoming; but who does actually strive to do the deeds; who
-        knows great enthusiasms, the great devotions; who spends himself in a
-        worthy cause; who at the best knows in the end the triumph of high
-        achievement, and who at the worst,{" "}
+        is marred by dust and sweat and blood... who at the best knows in the
+        end the triumph of high achievement, and who at the worst,{" "}
         <span className="text-hover">
           if he fails, at least fails while daring greatly, so that his place
           shall never be with those cold and timid souls who neither know
           victory nor defeat
         </span>
       </p>
-      <p className="text-right text-base mb-6">&mdash; Theodore Roosevelt</p>
+      <p className="text-right text-base mb-12">&mdash; Theodore Roosevelt</p>
     </div>
   );
 }
