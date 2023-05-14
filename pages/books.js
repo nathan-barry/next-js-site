@@ -21,6 +21,20 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={113}
+        title="A Mind at Play"
+        author="Rob Goodman & Jimmy Soni"
+        special={true}
+        description="I love Claude Shannon. Just a terrific man. While I might not ever be able to outshine his genius, I might one day be able to juggle better than him (5 balls instead of 4)!"
+      />
+      <Book
+        number={113}
+        title="The Poincaré Conjecture"
+        author="Donal O'Shea"
+        special={true}
+        description="A truly fantastic book, one of the best I've ever read. Goes through the history of math, from Euclid to Gauss, Riemann, etc. and covers the origin of geometry, topology, calculus, and other foundations of math and how it all connects. Truly a wonderful book."
+      />
+      <Book
         number={112}
         title="The Everthing Store"
         author="Brad Stone"
@@ -31,7 +45,7 @@ export default function Home() {
         number={111}
         title="Chip War"
         author="Patrick Radden Keefe"
-        special={true}
+        special={false}
         description="This book is about the history of the microchip industry, mentioning the rise of globalism, of Japan, Tiwan, South Korea, the history of Silicon Valley and its relation with the US military, and the national security concerns China and the US has over the lack of control over technologies that make up the majority of their military might. Fantastic book, right down my alley."
       />
       <Book
