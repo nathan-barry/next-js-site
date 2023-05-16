@@ -21,7 +21,14 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
-        number={113}
+        number={115}
+        title="How Google Works"
+        author="Eric Schmidt & Jonathan Rosenberg"
+        special={false}
+        description=""
+      />
+      <Book
+        number={114}
         title="A Mind at Play"
         author="Rob Goodman & Jimmy Soni"
         special={true}
