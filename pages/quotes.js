@@ -29,6 +29,14 @@ export default function Home() {
       <p className="text-right text-base mb-12">
         &mdash; Ayn Rand, <i>The Fountainhead</i>
       </p>
+      <p className="text-lg leading-relaxed text-justify mb-2">
+        <span className="text-hover">
+          What an explorer trades off for knowledge is pleasure.
+        </span>
+      </p>
+      <p className="text-right text-base mb-12">
+        &mdash; <i>Algorithms to Live By</i>
+      </p>
 
       <p className="text-lg leading-relaxed text-justify mb-2">
         Give me a lever long enough and a fulcrum on which to place it, and{" "}

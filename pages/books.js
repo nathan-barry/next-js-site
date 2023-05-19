@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={118}
+        title="Gödel's Proof"
+        author="Ernest Nagel & James R. Newman"
+        special={true}
+        description="For the first time in my life, I feel like I actually have a fairly intuitive understanding of Gödel's Incompleteness Theorem, to a point to where I could explain it to a child. I decided to read this because I started Gödel Escher Bach and wanted to truly understand the concept that sparked it all before reading such a Tour De Force."
+      />
+      <Book
         number={117}
         title="The Joy of X"
         author="Steven Strogatz"
