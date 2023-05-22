@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={119}
+        title="Algorithms to Live By"
+        author="Brian Christian & Tom Griffiths"
+        special={false}
+        description="This book made me wonder how much knowledge I missed throughout my life. I read a part of this in the past before. Rereading it again, after taking computer architecture and OS is a completely different experience. Things that I didn't understand or pick up on are now obvious to me and the amount I take away is greatly different."
+      />
+      <Book
         number={118}
         title="Gödel's Proof"
         author="Ernest Nagel & James R. Newman"
