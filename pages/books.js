@@ -25,7 +25,7 @@ export default function Home() {
         title="Algorithms to Live By"
         author="Brian Christian & Tom Griffiths"
         special={false}
-        description="This book made me wonder how much knowledge I missed throughout my life. I read a part of this in the past before. Rereading it again, after taking computer architecture and OS is a completely different experience. Things that I didn't understand or pick up on are now obvious to me and the amount I take away is greatly different."
+        description="This book made me wonder how much knowledge I didn't catch throughout my life. I read a part of this book in the past before. Rereading it again, after taking computer architecture and OS, is a completely different experience. Things that I didn't understand or pick up on are now obvious to me and the amount I take away is greatly different."
       />
       <Book
         number={118}
@@ -79,7 +79,7 @@ export default function Home() {
       <Book
         number={111}
         title="Chip War"
-        author="Patrick Radden Keefe"
+        author="Chris Miller"
         special={false}
         description="This book is about the history of the microchip industry, mentioning the rise of globalism, of Japan, Tiwan, South Korea, the history of Silicon Valley and its relation with the US military, and the national security concerns China and the US has over the lack of control over technologies that make up the majority of their military might. Fantastic book, right down my alley."
       />
