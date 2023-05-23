@@ -21,60 +21,74 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
-        number={119}
+        number={121}
         title="Algorithms to Live By"
         author="Brian Christian & Tom Griffiths"
         special={false}
         description="This book made me wonder how much knowledge I didn't catch throughout my life. I read a part of this book in the past before. Rereading it again, after taking computer architecture and OS, is a completely different experience. Things that I didn't understand or pick up on are now obvious to me and the amount I take away is greatly different."
       />
       <Book
-        number={118}
+        number={120}
         title="Gödel's Proof"
         author="Ernest Nagel & James R. Newman"
         special={true}
         description="For the first time in my life, I feel like I actually have a fairly intuitive understanding of Gödel's Incompleteness Theorem, to a point to where I could explain it to a child. I decided to read this because I started Gödel Escher Bach and wanted to truly understand the concept that sparked it all before reading such a Tour De Force."
       />
       <Book
-        number={117}
+        number={119}
         title="The Joy of X"
         author="Steven Strogatz"
         special={false}
         description="Just another book about math history and trivia. One thing that I thought was super interesting is that it mentioned how to optimal stopping point for any problem where you know the size, the solution is 1/e. In another book, 'Agorithms To Live By', it mentioned this, but it just said .37% (the rounded decimal version of 1/e). I'm just reminded of how amazing math is and how it is unexplanably beautiful and tied together."
       />
       <Book
-        number={116}
+        number={118}
         title="The Creature from Jekyll Island"
         author="G. Edward Griffin"
         special={true}
         description="This is mandatory reading. This book does what Howard Zinn's 'The People's History Of The United States' wanted to do, while funnily being on the exact opposite of the political spectrum. I'm always reminded how, in response to the criticism of conspiracy theories in general, people remind us that the founding of our country was a massive conspiracy theory. The more I exist, the more I realize that a lot of the largest socio, political, and economic events in human history have all been just strings of conspiracy theories, and we are almost certainly living amongst many at the current moment."
       />
       <Book
-        number={115}
+        number={117}
         title="How Google Works"
         author="Eric Schmidt & Jonathan Rosenberg"
         special={false}
         description="Bland. This was a mix between 'History of Google' and 'Google's management philosophy'. The history part is nice, the latter was just very generic stuff. Most likely my perspective. When this book came out these ideas could have been novel, but throughout the years, much of this advice propagated to most of the startups out there to the point where a lot of this is common knowledge"
       />
       <Book
-        number={114}
+        number={116}
         title="A Mind at Play"
         author="Rob Goodman & Jimmy Soni"
         special={true}
         description="I love Claude Shannon. Really a human to cause inspires in others. The archetypal tinkerer. Just a terrific man. While I might not ever be able to outshine his genius, I might one day be able to juggle better than him (5 balls instead of 4)!"
       />
       <Book
-        number={113}
+        number={115}
         title="The Poincaré Conjecture"
         author="Donal O'Shea"
         special={true}
         description="A truly fantastic book, one of the best I've ever read. Goes through the history of math, from Euclid to Gauss, Riemann, etc. and covers the origin of geometry, topology, calculus, and other foundations of math and how it all connects. I very much appreciated its intro to topology as I'm very new to a lot of higher math topics. Truly a wonderful book and has helped spark a deeper curiousity and love for math within me."
       />
       <Book
-        number={112}
+        number={114}
         title="The Everthing Store"
         author="Brad Stone"
         special={true}
         description="This book is about Jeff Bezos and the founding of Amazon. Really surprised me. Who knows how much the lens of this story warps the reality, but from this book, it seems like Jeff Bezos doing something great was inevitable. I recently read half of 'Shoe Dog', the founding story about nike, and it really seems like the guy just got insanely lucky. Jeff Bezos seems to be at the very opposite of the spectrum; it was inevitable he would do something great. Very much holds admirable traits to emulate."
+      />
+      <Book
+        number={113}
+        title="All the Math You Missed"
+        author="Thomas A. Garrity"
+        special={false}
+        description="This covers everything from Linear Algebra to Topology, from Differential Equations to Non-Euclidian Geometry. It was really nice to just see everything that one could cover in an undergraduate math degree and introduced me to a bunch of new topics."
+      />
+      <Book
+        number={112}
+        title="Cracking The Coding Interview"
+        author="Gayle Laakmann Mcdowell"
+        special={false}
+        description="Just had to go through this quickly to refresh my memory"
       />
       <Book
         number={111}
