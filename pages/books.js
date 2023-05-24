@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={122}
+        title="Einstein"
+        author="Walter Isaacson"
+        special={false}
+        description="This book became so much better and more enriching after I learned about the basics of topology and the history of non-Euclidian geometry and the early Prussian university system with the characters and historic figues that came out of there. I love more about the same things through different lenses. Great biography in general."
+      />
+      <Book
         number={121}
         title="Algorithms to Live By"
         author="Brian Christian & Tom Griffiths"
