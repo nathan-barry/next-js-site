@@ -18,7 +18,8 @@ tag: "Misc"
 - [x] Gödel's Proof: Revised Edition
 - [x] Cracking the Coding Interview
 - [x] All The Math You Missed, But Need to Know for Graduate School
-- [ ] Einstein: His Life and Universe by Walter Isaacson
+- [x] Einstein: His Life and Universe by Walter Isaacson
+- [x] American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer
 - [ ] Gödel, Escher, Bach: an Eternal Golden Braid
 - [ ] The Theoretical Minimum: Classical Mechanics
 - [ ] The Theoretical Minimum: Quantum Mechanics
@@ -29,9 +30,7 @@ tag: "Misc"
 
 - [x] Climb Pink at APB
 - [x] Climb White at APB
-- [x] Juggle 3 balls for 50
-- [ ] Juggle 4 balls for 50
-- [ ] Zetamac score 60
+- [x] Juggle 3 balls (and learn tricks)
 - [ ] Learn Piano
 - [ ] Grow and Harvest Peppers (Ghost and Habanero)
 - [ ] 75 Leetcode
@@ -42,5 +41,6 @@ tag: "Misc"
 - [ ] Engineering Physics 1
 - [ ] Engineering Physics 2
 - [ ] Introduction to Number Theory
+- [x] Texas Gov Test (Core Requirement)
 - [ ] Intro to Ancient Greece (Core Requirement)
 - [ ] Intro to Greek Mythology (Core Requirement)

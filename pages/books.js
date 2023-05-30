@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={123}
+        title="American Prometheus"
+        author="Kai Bird & Martin J. Sherwin"
+        special={true}
+        description="This is a great biography about J. Robert Oppenheimer. I've read so many books about such great figures. It's strange, going through someone's entire life in just a week. It always leaves an impression on me greatly, reading about their death, and Oppenheimer is of no exception. Wasted away from cancer. Hearing about how people change when faced with their own mortality, it always makes me stop and ponder what I am doing with my life."
+      />
+      <Book
         number={122}
         title="Einstein"
         author="Walter Isaacson"
