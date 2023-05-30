@@ -19,30 +19,22 @@ export default function Home() {
       <h2 className="mt-16 mb-5">Quotes</h2>
 
       <p className="text-lg leading-relaxed text-justify mb-2">
-        It's so hard to stand on one's own record... It's simple to seek
-        substitutes for comptetence&mdash;such easy subsitutes: love, charm,
-        kindness, charity.{" "}
+        She merely laughed at him. She was not impressed with being out with the
+        only man{" "}
         <span className="text-hover">
-          But there is no substitute for competence.
+          who, at that moment, knew why the stars shine.
         </span>
       </p>
       <p className="text-right text-base mb-12">
-        &mdash; Ayn Rand, <i>The Fountainhead</i>
+        &mdash; Richard P. Feynman, <i>Six Easy Pieces</i>
       </p>
+
       <p className="text-lg leading-relaxed text-justify mb-2">
-        <span className="text-hover">
-          What an explorer trades off for knowledge is pleasure.
-        </span>
+        What an explorer trades off for knowledge is pleasure.
       </p>
       <p className="text-right text-base mb-12">
         &mdash; <i>Algorithms to Live By</i>
       </p>
-
-      <p className="text-lg leading-relaxed text-justify mb-2">
-        Give me a lever long enough and a fulcrum on which to place it, and{" "}
-        <span className="text-hover">I shall move the world</span>
-      </p>
-      <p className="text-right text-base mb-12">&mdash; Archimedes</p>
 
       <p className="text-lg leading-relaxed text-justify mb-2">
         {" "}
@@ -60,11 +52,10 @@ export default function Home() {
 
       <p className="text-lg leading-relaxed text-justify mb-2">
         The average person puts only 25% of his energy and ability into his
-        work.{" "}
+        work. The world takes off its hat to those who put in more than 50% of
+        their capacity, and stands on its head{" "}
         <span className="text-hover">
-          The world takes off its hat to those who put in more than 50% of their
-          capacity, and stands on its head for those few and far between souls
-          who devote 100%
+          for those few and far between souls who devote 100%.
         </span>
       </p>
       <p className="text-right text-base mb-12">&mdash; Andrew Carnegie</p>
@@ -76,7 +67,7 @@ export default function Home() {
         <span className="text-hover">
           if he fails, at least fails while daring greatly, so that his place
           shall never be with those cold and timid souls who neither know
-          victory nor defeat
+          victory nor defeat.
         </span>
       </p>
       <p className="text-right text-base mb-12">&mdash; Theodore Roosevelt</p>
