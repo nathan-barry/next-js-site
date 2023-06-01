@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={124}
+        title="The Man From The Future"
+        author="Ananyo Bhattacharya"
+        special={false}
+        description="This book talks about each field that John von Neumann was involved in, mainly quantum mechanics, the atomic bomb, computers, and cellular automaton. It's too late for me, but there seems to be a systematic way to raise kids with a touch of genius. Every time I think about it, focusing my entire life on gathering resources and then pivoting all my focus on my future kids seems like it should surely have a higher long term expected value than me trying to reach great heights, as my kids would surely be able to do more. Of course, the future is always full of uncertainties."
+      />
+      <Book
         number={123}
         title="American Prometheus"
         author="Kai Bird & Martin J. Sherwin"
