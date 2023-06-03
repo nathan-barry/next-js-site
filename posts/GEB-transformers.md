@@ -1,5 +1,5 @@
 ---
-title: "Gödel, Escher, Bach, Self-aware Transformers, and the Singularity"
+title: "Gödel Escher Bach, Self-Reference, and Self-Aware Transformers"
 date: "2023-06-03"
 exerpt: "How self-reference can lead to AGI from current transformer architectures"
 tag: "Misc"
@@ -8,7 +8,7 @@ tag: "Misc"
 <br>
 <i>Created with the assistance of GPT-4</i>
 
-# Gödel, Escher, Bach, Self-aware Transformers, and the Singularity
+# Gödel Escher Bach, Self-Reference, and Self-Aware Transformers
 
 In the worlds of artificial intelligence and machine learning, the scope of what is possible continues to expand. State-of-the-art large language models (LLMs) have already demonstrated remarkable capabilities in terms of learning from input and generating relevant output. But one area that hasn't been fully explored yet is the concept of self-aware transformers: models that understand their own architecture, memory system, limitations, and capabilities.
 
