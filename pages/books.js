@@ -922,7 +922,7 @@ export default function Home() {
         title="The 48 Laws Of Power"
         author="Robert Greene"
         special={true}
-        description="You might be asking, 'Who the hell gave a 13 year old this book??' I have no idea how I first heard of it. All I remember is that I checked it out from my local library and read it in a week."
+        description=""
       />
       <p className="mt-16 italic">
         "The average person puts only 25% of his energy and ability into his
