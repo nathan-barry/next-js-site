@@ -20,6 +20,8 @@ tag: "Misc"
 - [x] All The Math You Missed, But Need to Know for Graduate School
 - [x] Einstein: His Life and Universe by Walter Isaacson
 - [x] American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer
+- [x] The Man from the Future: The Visionary Life of John von Neumann
+- [ ] Rome: An Empire's Story
 - [ ] Gödel, Escher, Bach: an Eternal Golden Braid
 - [ ] The Theoretical Minimum: Classical Mechanics
 - [ ] The Theoretical Minimum: Quantum Mechanics
@@ -38,8 +40,8 @@ tag: "Misc"
 
 ## Classes
 
-- [ ] Engineering Physics 1
-- [ ] Engineering Physics 2
+- [ ] Engineering Physics 1 (and lab)
+- [ ] Engineering Physics 2 (and lab)
 - [ ] Introduction to Number Theory
 - [x] Texas Gov Test (Core Requirement)
 - [ ] Intro to Ancient Greece (Core Requirement)
