@@ -21,6 +21,20 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={126}
+        title="Six Easy Pieces"
+        author="Richard P. Feynman"
+        special={false}
+        description="Feels great to actually understand physics (currently also taking a physics sequence at UT). After a couple of books about general relativity and quantum mechanics, I'll tap out of physics. I'll have a reasonable understanding."
+      />
+      <Book
+        number={125}
+        title="Rome: An Empire's Story"
+        author="Greg Woolf"
+        special={false}
+        description="I loved the end, when it was talking about what causes a culture to create monuments. The late republic and early empire, tons of monuments were built. People that build monuments have enough trust that there will be someone there in the future to remember them. Very few monuments were built after the early life of the empire, which also lines up with the start of its decline. Of course, economic factors play in, but maybe people didn't believe that future generations would be there for them? Or at least future generations that they cared about."
+      />
+      <Book
         number={124}
         title="The Man From The Future"
         author="Ananyo Bhattacharya"
