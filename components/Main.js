@@ -45,11 +45,6 @@ export default function Main() {
         <Link href="/posts">
           <p className="hover:text-hover underline font-bold">[Blog Posts]</p>
         </Link>
-        <Link href="/quotes">
-          <p className="hover:text-hover underline font-bold">
-            [Favorite Quotes]
-          </p>
-        </Link>
       </div>
     </div>
   );

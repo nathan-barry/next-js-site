@@ -21,28 +21,28 @@ tag: "Misc"
 - [x] Einstein: His Life and Universe by Walter Isaacson
 - [x] American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer
 - [x] The Man from the Future: The Visionary Life of John von Neumann
-- [ ] Rome: An Empire's Story
+- [x] Rome: An Empire's Story
 - [ ] Gödel, Escher, Bach: an Eternal Golden Braid
-- [ ] The Theoretical Minimum: Classical Mechanics
-- [ ] The Theoretical Minimum: Quantum Mechanics
-- [ ] Six Easy Pieces: Physics Taught By Richard Feynman
+- [x] Six Easy Pieces: Physics Taught By Richard Feynman
 - [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time
 
 ## Misc.
 
 - [x] Climb Pink at APB
 - [x] Climb White at APB
-- [x] Juggle 3 balls (and learn tricks)
-- [ ] Learn Piano
+- [x] Juggle 3 balls (and tricks)
+- [ ] Juggle 4 balls 
+- [x] Set up lua nvim config
 - [ ] Grow and Harvest Peppers (Ghost and Habanero)
 - [ ] 75 Leetcode
 - [ ] 150 Leetcode
 
 ## Classes
 
-- [ ] Engineering Physics 1 (and lab)
+- [x] Engineering Physics 1 (and lab)
 - [ ] Engineering Physics 2 (and lab)
-- [ ] Introduction to Number Theory
+- [x] Introduction to Number Theory
 - [x] Texas Gov Test (Core Requirement)
-- [ ] Intro to Ancient Greece (Core Requirement)
-- [ ] Intro to Greek Mythology (Core Requirement)
+- [x] Intro to Ancient Rome (Core Requirement)
+- [ ] Intro to Classical Mythology (Core Requirement)
+- [ ] Compilers

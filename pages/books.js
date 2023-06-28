@@ -25,7 +25,7 @@ export default function Home() {
         title="Six Easy Pieces"
         author="Richard P. Feynman"
         special={false}
-        description="Feels great to actually understand physics (currently also taking a physics sequence at UT). After a couple of books about general relativity and quantum mechanics, I'll tap out of physics. I'll have a reasonable understanding."
+        description="Feels great to actually understand physics (currently also taking a physics sequence at UT). After a couple of books about general relativity and quantum mechanics, I'll tap out of physics. I'll have a reasonable understanding. I can die satisfied."
       />
       <Book
         number={125}
@@ -623,7 +623,7 @@ export default function Home() {
         title="The Boys In The Boat"
         author="Daniel James Brown"
         special={true}
-        description=""
+        description="My high school cross country coach, Bob Miller, brought up this boat. A beautiful story of a group of young boys sacrificing for something greater than themselves. Truly one of the most special moments a human can experience. One day I wish to do the same."
       />
       <Book
         number={43}
