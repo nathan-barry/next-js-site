@@ -39,7 +39,7 @@ export default function Main() {
       <div className="mt-10">
         <Link href="/books">
           <p className="hover:text-hover underline font-bold">
-            [Checkout what books I like!]
+            [Favorite Books]
           </p>
         </Link>
         <Link href="/posts">
