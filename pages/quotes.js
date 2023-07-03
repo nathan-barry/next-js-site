@@ -19,6 +19,23 @@ export default function Home() {
       <h2 className="mt-16 mb-5">Quotes</h2>
 
       <p className="text-lg leading-relaxed text-justify mb-2">
+        He was a true Morgan. His humanity was deep but narrow. His world divided between those who counted and those who did not. With his family, he was capable of total love.
+      </p>
+      <p className="text-right text-base mb-12">
+        &mdash; Ron Chernow (about Jack Morgan), <i>The House of Morgan</i>
+      </p>
+
+      <p className="text-lg leading-relaxed text-justify mb-2">
+        I believe that a man should strive for only one thing in life,{" "}
+        <span className="text-hover">
+            and that, is to have a touch of greatness
+        </span>
+      </p>
+      <p className="text-right text-base mb-12">
+        &mdash; Félix Martí-Ibáñez to Bobby Sackler, <i>Empire of Pain</i>
+      </p>
+
+      <p className="text-lg leading-relaxed text-justify mb-2">
         She merely laughed at him. She was not impressed with being out with the
         only man{" "}
         <span className="text-hover">
