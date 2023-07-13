@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={127}
+        title="Physics for Engineers and Scientists, Vol. 1"
+        author="Hans C. Ohanian & John T. Markert"
+        special={true}
+        description="This is the first textbook I've actually nearly read to from cover to cover. Everything excepct for the sections on heat and thermodynamics. It was a very good textbook. I noticed that there's a really large gap in my understanding of the world. Math and computer science is solid knowledge, but in terms of how the world actually works, I've been fully ignorant until now."
+      />
+      <Book
         number={126}
         title="Six Easy Pieces"
         author="Richard P. Feynman"

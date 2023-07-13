@@ -25,6 +25,9 @@ tag: "Misc"
 - [ ] Gödel, Escher, Bach: an Eternal Golden Braid
 - [x] Six Easy Pieces: Physics Taught By Richard Feynman
 - [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time
+- [ ] The Odyssey
+- [x] Physics for Engineers and Scientists, Vol. 1
+- [ ] Physics for Engineers and Scientists, Vol. 2
 
 ## Misc.
 
@@ -33,9 +36,12 @@ tag: "Misc"
 - [x] Juggle 3 balls (and tricks)
 - [ ] Juggle 4 balls 
 - [x] Set up lua nvim config
+- [x] Set up macbook pro
+- [x] Set up local LaTeX setup
 - [ ] Grow and Harvest Peppers (Ghost and Habanero)
 - [ ] 75 Leetcode
 - [ ] 150 Leetcode
+- [ ] Do a kickflip
 
 ## Classes
 
@@ -43,6 +49,8 @@ tag: "Misc"
 - [ ] Engineering Physics 2 (and lab)
 - [x] Introduction to Number Theory
 - [x] Texas Gov Test (Core Requirement)
+- [ ] Macro economics CLEP
 - [x] Intro to Ancient Rome (Core Requirement)
 - [ ] Intro to Classical Mythology (Core Requirement)
-- [ ] Compilers
+- [ ] History (Core Requirement)
+- [ ] Rhetoric (Core Requirement)
