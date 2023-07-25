@@ -24,8 +24,7 @@ tag: "Misc"
 - [x] Rome: An Empire's Story
 - [ ] Gödel, Escher, Bach: an Eternal Golden Braid
 - [x] Six Easy Pieces: Physics Taught By Richard Feynman
-- [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time
-- [ ] The Odyssey
+- [x] The Odyssey
 - [x] Physics for Engineers and Scientists, Vol. 1
 - [ ] Physics for Engineers and Scientists, Vol. 2
 
@@ -49,8 +48,12 @@ tag: "Misc"
 - [ ] Engineering Physics 2 (and lab)
 - [x] Introduction to Number Theory
 - [x] Texas Gov Test (Core Requirement)
-- [ ] Macro economics CLEP
+- [x] Macro economics CLEP
 - [x] Intro to Ancient Rome (Core Requirement)
 - [ ] Intro to Classical Mythology (Core Requirement)
 - [ ] History (Core Requirement)
 - [ ] Rhetoric (Core Requirement)
+
+## Reflection
+
+At the end of the summer, I will reflect on what I have done, how I have improved, and how I have fallen short. So far, summer has been quite great. It is always hard for time to pass and one to not get better.

@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={128}
+        title="The Odyssey"
+        author="Translated by Emily Wilson"
+        special={true}
+        description="Surprisingly, I've never read many 'classics'. Emily Wilson did a fantastic translation. I did enjoy the story. These old archetypal stories always reflect aspects of the human condition that we can relate to and cause us to reflect deeper about our lives. We are all the hero in our own lives on our own journey, and we must make the best of it."
+      />
+      <Book
         number={127}
         title="Physics for Engineers and Scientists, Vol. 1"
         author="Hans C. Ohanian & John T. Markert"
