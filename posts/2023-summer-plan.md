@@ -5,6 +5,10 @@ exerpt: "The checklist and progress of the things I want to do this summer"
 tag: "Misc"
 ---
 
+# 2023 Summer Plan
+
+Below are some (if not most) of the things I plan on doing this summer. I originally planned on doing research but decided that crushing out credits and double majoring in math and doing the integrated CS Masters program was what I felt meant more to me.
+
 ## Books Read
 
 - [x] Chip War: The Fight for the World's Most Critical Technology
@@ -27,20 +31,21 @@ tag: "Misc"
 - [x] The Odyssey
 - [x] Physics for Engineers and Scientists, Vol. 1
 - [ ] Physics for Engineers and Scientists, Vol. 2
+- [x] The House of Morgan by Ron Chernow
 
 ## Misc.
 
+- [x] Councilor at CS Summer Academy
 - [x] Climb Pink at APB
 - [x] Climb White at APB
 - [x] Juggle 3 balls (and tricks)
-- [ ] Juggle 4 balls 
+- [x] Juggle 4 balls (14 catches, good enough)
 - [x] Set up lua nvim config
 - [x] Set up macbook pro
 - [x] Set up local LaTeX setup
-- [ ] Grow and Harvest Peppers (Ghost and Habanero)
+- [x] Grow Peppers (Ghost and Habanero)
 - [ ] 75 Leetcode
-- [ ] 150 Leetcode
-- [ ] Do a kickflip
+- [x] Symbolic math rust crate
 
 ## Classes
 

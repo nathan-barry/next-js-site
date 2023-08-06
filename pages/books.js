@@ -21,6 +21,13 @@ export default function Home() {
       <h2 className="mt-16 mb-5">[ 2023 | Age 20 ]</h2>
 
       <Book
+        number={129}
+        title="The House of Morgan"
+        author="Ron Chernow"
+        special={false}
+        description="This behemoth of a book is about the Morgan banking dynasty, from George Peabody and J.S. Morgan to now. Because the Morgan Dynasty has been around for 200 years, this book also is nearly a history of modern banking as a whole. What I thought was interesting was the evolution of the relation between bank and the state. From king makers to diplomats to tools have they fallen."
+      />
+      <Book
         number={128}
         title="The Odyssey"
         author="Translated by Emily Wilson"
